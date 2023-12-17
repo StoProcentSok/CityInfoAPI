@@ -1,0 +1,1398 @@
+{1}{1}23.976
+{1150}{1245}www.NapiProjekt.pl - nowa jakoœæ napisów.|Napisy zosta³y specjalnie dopasowane do Twojej wersji filmu.
+{1246}{1446}T³umaczy³a: zijok
+{1737}{1810}/Kiedy tylko ogarnia mnie smutek|/za spraw¹ dzisiejszego œwiata,
+{1812}{1885}/myœlê o hali przylotów|/na lotnisku Heathrow.
+{1887}{1985}/Panuje opinia,|/¿e ¿yjemy w œwiecie ¿¹dzy i nienawiœci,
+{1987}{2035}/ale ja tak tego nie odbieram.
+{2038}{2085}/Mnie siê wydaje, ¿e mi³oœæ jest wszêdzie.
+{2087}{2210}/Czêsto niezbyt ciekawa|/czy pe³na godnoœci, ale zawsze jest.
+{2213}{2285}/Ojcowie i synowie, matki i córki,|/mê¿owie i ¿ony,
+{2288}{2360}/dziewczyny i ch³opaki,|/starzy przyjaciele.
+{2363}{2410}/Kiedy samoloty uderzy³y w Dwie Wie¿e,
+{2412}{2535}/¿aden z telefonów od ludzi na pok³adzie,|/nie niós³ przes³ania nienawiœci, czy chêci zemsty.
+{2538}{2585}/Wszystkie nios³y przes³anie mi³oœci.
+{2587}{2778}/Jeœli jej poszukasz, masz nieodparte wra¿enie,|/¿e mi³oœæ jest faktycznie wszêdzie.
+{2874}{2917}TO W£AŒNIE MI£OŒÆ
+{3112}{3187}/Czujê to w mych palcach,
+{3212}{3287}/a¿ po koñce stóp.
+{3387}{3486}/Mi³oœæ wszêdzie wokó³|/i coraz...
+{3513}{3586}Obawiam siê, ¿e znowu to zrobi³eœ, Bill.
+{3599}{3690}To dlatego,|¿e tak dobrze znam star¹ wersjê, sam wiesz.
+{3692}{3805}No có¿, wszyscy j¹ znamy.|Dlatego nagrywamy now¹.
+{3808}{3842}No dobra, zaczynamy.
+{3887}{3986}/Czujê to w mych palcach,
+{4017}{4090}/a¿ po koñce stóp.
+{4162}{4235}/Mi³oœæ wszêdzie wo...
+{4237}{4364}Kurwa maæ, spieprzone,|popieprzone gówno.
+{4387}{4436}Od nowa.
+{4538}{4635}/Czujê to w mych palcach,
+{4638}{4712}/A¿ po koñce stóp.
+{4813}{4910}/Œwiêta wszêdzie wokó³
+{4912}{4987}/i coraz bli¿ej wci¹¿.
+{5087}{5162}/Niesione s¹ przez wiatr
+{5197}{5271}/S¹ wszêdzie tam gdzie ja.
+{5362}{5447}/Wiêc jeœli naprawdê kochasz Œwiêta
+{5468}{5543}/Pozwól niech pada œnieg.
+{5563}{5612}To jest gówno, no nie?
+{5639}{5734}Solidne, z³ote gówno, maestro.
+{5841}{5917}5 TYGODNI DO ŒWI¥T
+{6263}{6336}- Bo¿e, ale jestem spóŸniony.|- To zaraz za rogiem, zd¹¿ysz.
+{6370}{6435}Na pewno nie masz nic przeciwko,|¿e idê bez ciebie?
+{6438}{6485}Na pewno.|Tak paskudnie siê czujê.
+{6487}{6560}- Kocham ciê.|- Wiem.
+{6562}{6660}Kocham ciê nawet|jak jesteœ chora i wygl¹dasz ohydnie.
+{6662}{6736}Wiem. A teraz idŸ ju¿,|albo naprawdê siê spóŸnisz.
+{6763}{6822}W porz¹dku.
+{6863}{7008}- Czy wspomina³em ju¿, ¿e ciê kocham?|- Tak, wspomina³eœ. WychodŸ, ofiaro losu.
+{7363}{7435}Karen, to znowu ja.
+{7437}{7560}Przepraszam,|ale dos³ownie nie mam z kim pogadaæ.
+{7563}{7636}Niew¹tpliwie. Ale to kiepska pora.|Mogê oddzwoniæ?
+{7675}{7707}Oczywiœcie.
+{7710}{7785}To nie znaczy, ¿e nie jestem|ogromnie zmartwiona œmierci¹ twojej ¿ony.
+{7787}{7835}Jasne.
+{7837}{7933}Sp³ywam, zadzwoñ póŸniej.
+{7998}{8032}Wiêc co to za wielka nowina?
+{8046}{8135}Dostaliœmy rolê w Jase³kach,|a ja jestem homarem.
+{8138}{8185}- Homarem?|- Tak.
+{8187}{8272}- W Jase³kach?|- Tak. Pierwszym homarem.
+{8283}{8360}To przy narodzinach Jezusa|by³ wiêcej ni¿ jeden homar?
+{8362}{8418}No...
+{8513}{8586}Najlepsze kanapki w Wielkiej Brytanii.
+{8622}{8701}Spróbujesz moich orzechowych?
+{8712}{8819}Piêkna bu³eczka dla piêknej pani.
+{8876}{8962}Dzieñ dobry, moja przysz³a ¿ono.
+{9371}{9421}Dobra, mo¿ecie przestaæ. Dziêki.
+{9487}{9562}Tak przy okazji, przedstawi³ mnie jako John'a,|ale wszyscy mówi¹ na mnie Jack.
+{9565}{9610}Œwietnie. Mi³o ciê poznaæ, Jack.
+{9613}{9686}Mnie przedstawi³ jak nale¿y. Jestem po prostu Judy.
+{9693}{9769}Wspaniale, Po Prostu Judy!
+{9871}{9935}- ¯adnych niespodzianek?|- ¯adnych niespodzianek.
+{9937}{10010}- ¯adnych takich, jak na wieczorze kawalerskim?|- ¯adnych takich.
+{10012}{10085}- Przyznajesz, ¿e prostytutki by³y b³êdem?|- Przyznajê.
+{10087}{10185}I ¿e by³oby lepiej,|gdyby nie okaza³y siê mê¿czyznami?
+{10187}{10258}To prawda.
+{10287}{10364}Powodzenia, dzieciaku.
+{10887}{11003}Panie Premierze, tutaj!
+{11238}{11302}Dziêkujê.
+{11312}{11410}- Witam panie Premierze.|- Muszê pozbyæ siê tego machania.
+{11413}{11460}Jak siê masz?
+{11462}{11535}- Jak pan siê czuje?|- Có¿...
+{11538}{11585}Super. Wp³ywowo.
+{11588}{11637}Zechcia³by pan poznaæ personel domowy?
+{11661}{11710}Tak, w rzeczy samej, chcia³bym bardzo.
+{11712}{11835}Cokolwiek, byle tylko od³o¿yæ rz¹dzenie krajem.
+{11837}{11900}- To Terence. On tu rz¹dzi.|- Dzieñ dobry, sir.
+{11911}{11960}Dzieñ dobry.|Mia³em wuja, imieniem Terence.
+{11963}{12060}Nienawidzi³em go, myœlê, ¿e by³ zboczeñcem.|Ale ty mi siê bardzo podobasz.
+{12062}{12110}- To jest Pat.|- Witaj, Pat.
+{12113}{12186}Dzieñ dobry, sir.|Jestem gospodyni¹.
+{12207}{12266}Powinienem byæ spokojniejszy,|ni¿ ostatnia ekipa.
+{12268}{12336}¯adnych pieluch, ¿adnych nastolatków,|¿adnej budz¹cej postrach ¿ony.
+{12339}{12385}A to Natalie.|Jest nowa, tak jak pan.
+{12388}{12485}- Witaj, Natalie.|- Witaj, David. To znaczy, sir.
+{12488}{12535}Cholera, nie mogê uwierzyæ,|¿e to powiedzia³am.
+{12538}{12635}A teraz jeszcze powiedzia³am "cholera".|Dwukrotnie. Bardzo przepraszam, sir.
+{12638}{12710}Mog³aœ by³a powiedzieæ "Ja pieprzê"|i wtedy by³by prawdziwy k³opot.
+{12713}{12835}Dziêkujê, sir. Mia³am przeczucie,|¿e rozpieprzê swój pierwszy dzieñ.
+{12837}{12906}Ja pieprzê!
+{12913}{13035}Dobrze, wezmê swoje rzeczy|i zaczynamy naprawiaæ kraj, dobrze?
+{13037}{13126}Pewnie, czemu nie.
+{13387}{13460}- Ju¿ dobrze.|- Widzia³a pani, co ja narobi³am?
+{13462}{13510}- Tak, widzia³am.|- Po prostu mnie zatka³o.
+{13513}{13560}- Witam wszystkich.|- Ja jestem tam.
+{13562}{13636}Tak, a ja tutaj.|Dobrze. Dziêkujê.
+{13814}{13863}No nie.
+{13866}{13952}To takie uci¹¿liwe.
+{13987}{14060}W obecnoœci Boga,|Peter i Juliet wyrazili przyzwolenie
+{14062}{14135}i z³o¿yli przysiêgê ma³¿eñsk¹.
+{14137}{14210}Swoje ma³¿eñstwo oznajmili|poprzez wymianê obr¹czek.
+{14212}{14340}Niniejszym og³aszam ich mê¿em i ¿on¹.
+{14438}{14510}Opar³eœ siê pokusie robienia niespodzianek.
+{14512}{14586}Tak, jestem cz³owiekiem dojrza³ym.
+{15070}{15138}- Czy to twój pomys³?
+{15141}{15200}Nie...
+{15388}{15437}Och, to jest...
+{16212}{16288}Spójrz, to Pikey.
+{16537}{16610}Witaj!|Co ty do diab³a tutaj robisz?
+{16616}{16660}Wpad³em tylko po¿yczyæ kilka starych p³yt.
+{16662}{16735}- A pani domu ciê wpuœci³a?|- Tak.
+{16737}{16810}- Cudowna, uczynna dziewczyna.|- Tak.
+{16812}{16932}Pomyœla³em, ¿e wpadnê przed przyjêciem,|sprawdzê, czy jej lepiej. Ta jest dobra.
+{16962}{17010}Pos³uchaj, tak sobie myœlê...
+{17012}{17110}Myœlê, ¿e powinniœmy zabraæ gdzieœ|w pi¹tek mamê z okazji urodzin. Jak s¹dzisz?
+{17113}{17235}- Czujê, ¿e w tym roku byliœmy kiepskimi synami.|- Brzmi nieŸle. Odrobinê nudno, ale nieŸle.
+{17237}{17285}Pospiesz siê, ch³opcze!
+{17288}{17412}Jestem naga i chcê ciê co najmniej dwa razy,|zanim Jamie wróci do domu.
+{17638}{17710}Tak siê cieszê, ¿e ciê widzê!
+{17713}{17821}- Wyborny smako³yk?|- Nie, dziêki.
+{17913}{17987}Eksplozja smaku?
+{18263}{18310}- Jedzenie?|- Nie, dziêki.
+{18313}{18360}Tak, trochê obrzydliwe, prawda?
+{18362}{18437}Wygl¹da jak palec martwego niemowlaka.
+{18472}{18558}Smakuje tak samo.
+{18619}{18656}Tak przy okazji, jestem Colin.
+{18658}{18710}- Nancy.|- Figlarka.
+{18712}{18781}- Co porabiasz, Nancy?|- Jestem kuchark¹.
+{18794}{18835}- Gotujesz na wesela?|- Tak.
+{18838}{18932}- Powinni byli poprosiæ ciê kucharzenie na tym.|- Poprosili.
+{18935}{19038}- Bo¿e, wola³bym, ¿ebyœ nie odrzuci³a zamówienia.|- Nie odrzuci³am.
+{19058}{19137}Jasne.
+{19140}{19213}- Wykombinowa³em sobie,|dlaczego nie mogê znaleŸæ prawdziwej mi³oœci.|- No i?
+{19217}{19260}Angielskie dziewczyny.|S¹ zarozumia³e, rozumiesz.
+{19263}{19361}A ja g³ównie podobam siê|bardziej wyluzowanym dziewczynom.
+{19394}{19485}Takim jak Amerykanki.|Wiêc powinienem po prostu pojechaæ do Ameryki!
+{19487}{19560}Tam natychmiast znalaz³bym sobie dziewczynê.|Jak s¹dzisz?
+{19562}{19610}Sadzê, ¿e to bzdury, Colin.
+{19613}{19660}I tutaj siê mylisz.
+{19662}{19735}Amerykañskie dziewczyny bêd¹ mnie rozrywaæ|z powodu s³odkiego brytyjskiego akcentu.
+{19737}{19835}- Nie masz s³odkiego, brytyjskiego akcentu.|- Ale¿ mam! Jadê do Ameryki.
+{19837}{19932}Colin, jesteœ samotnym, brzydkim dupkiem.|Przyjmij to do wiadomoœci.
+{19939}{20035}Nigdy. Jestem Colin, Bóg Seksu.|Po prostu jestem na niew³aœciwym kontynencie, to wszystko.
+{20038}{20135}Ludzie, odrobina ciszy,|koñczymy oœwietlenie!
+{20138}{20210}- Dzisiejszy ruch by³ po prostu...|- Niewiarygodny.
+{20213}{20285}Judy, mog³abyœ tym razem zdj¹æ górê?
+{20287}{20385}Oœwietleniowiec musi wiedzieæ,|kiedy zobaczymy te... sutki, a kiedy nie.
+{20388}{20460}Tak. W porz¹dku.|Tu jest przynajmniej przyjemnie i ciep³o.
+{20463}{20510}Nie zawsze tak bywa, prawda?
+{20512}{20585}Kiedyœ zastêpowa³em Brad'a Pitt'a|w "Siedmiu latach w Tybecie"...
+{20588}{20660}- Tak.|- Cholernie lodowato...
+{20663}{20735}Ludzie, czas nas goni,|musimy zacz¹æ z aktorami.
+{20738}{20787}- Œwietnie.|- Nie bêdê patrzy³, s³owo.
+{20838}{20975}W porz¹dku, zróbmy jeszcze jedno ujêcie.
+{21212}{21271}Mo¿esz po³o¿yæ rêce na jej piersiach?
+{21287}{21336}- Dobrze. W porz¹dku?|- Tak.
+{21350}{21428}Rozgrzejê je!
+{21438}{21541}- I masuj je, proszê.|- W porz¹dku.
+{21637}{21801}To 13-te skrzy¿owanie|jest po prostu zabójcze, prawda? Ca³kowity zastój.
+{21863}{21960}Jo i ja mieliœmy du¿o czasu,|aby przygotowaæ siê na tê chwilê.
+{21963}{22035}Niektóre z jej próœb,
+{22038}{22160}na przyk³ad, ¿e na pogrzeb|powinienem umówiæ siê na randkê z Claudi¹ Schiffer,
+{22162}{22260}by³em przeœwiadczony,|¿e oczekiwa³a, i¿ je zignorujê.
+{22262}{22360}Ale co do innych,|stawia³a je cholernie jasno.
+{22363}{22484}Kiedy po raz pierwszy wspomnia³a,|co ma siê staæ,
+{22488}{22535}powiedzia³em: "Po moim trupie."
+{22538}{22610}A ona na to: "Nie, Daniel, po moim."
+{22612}{22710}I jak zwykle moja kochana dziewczyna,
+{22738}{22810}a Sam'a kochana mama, mia³a racjê.
+{22813}{22935}Wiêc teraz zamierza siê|ostatecznie po¿egnaæ nie przez moj¹ osobê,
+{22937}{23005}ale niechybnie,
+{23012}{23085}jak zawsze super,
+{23088}{23187}poprzez nieœmiertelny geniusz Bay City Rollers.
+{24587}{24660}Kochasz go?
+{24662}{24710}Co takiego?
+{24713}{24785}Ja tylko myœla³am, ¿e zapytam wprost,|gdyby przypadkiem by³o to w³aœciwe pytanie
+{24788}{24910}a ty chcia³byœ z kimœ o tym pogadaæ,|a nikt nigdy ciê o to nie spyta³.
+{24912}{25025}Nie. Nie. OdpowiedŸ brzmi - nie.|Bezwzglêdnie nie.
+{25087}{25135}Wiêc mówisz, ¿e nie?
+{25138}{25186}Tak.
+{25287}{25360}Ten DJ, co o nim s¹dzisz?
+{25362}{25435}- Najgorszy w historii?|- Prawdopodobnie.
+{25437}{25485}Chyba wszystko zale¿y od nastêpnej piosenki.
+{25488}{25535}A teraz coœ dla zakochanych.
+{25537}{25636}Jest tu was kilkoro,|nie zdziwi³bym siê, gdyby nawet po³owa.
+{25787}{25911}- Teraz to potwierdzi³, to oficjalne.|- Najgorszy DJ na œwiecie.
+{26108}{26181}Sarah na pana czeka.
+{26188}{26235}Ach tak, oczywiœcie...
+{26238}{26287}Wspaniale, dobrze...
+{26324}{26410}Jak ci idzie, Mia?|Zadomowi³aœ siê? Uczysz siê, kogo unikaæ?
+{26413}{26479}Oczywiœcie.
+{26520}{26560}- Harry?|- Sarah.
+{26562}{26743}Wy³¹cz komórkê|i powiedz mi dok³adnie od jak dawna tu pracujesz.
+{26788}{26860}Dwa lata, siedem miesiêcy,
+{26863}{26916}trzy dni i chyba ze dwie godziny?
+{26922}{27062}A od jak dawna kochasz siê w Karlu,|naszym zagadkowym g³ównym projektancie?
+{27188}{27310}Dwa lata, siedem miesiêcy,|trzy dni i chyba z pó³torej godziny.
+{27313}{27335}Tak myœla³em.
+{27337}{27385}- S¹dzisz, ¿e wszyscy wiedz¹?|- Tak.
+{27388}{27485}- S¹dzisz, ¿e Karl wie?|- Tak.
+{27488}{27560}To... kiepska wiadomoœæ.
+{27563}{27710}Pomyœla³em sobie,|¿e mo¿e czas coœ z tym zrobiæ.
+{27713}{27760}- Co na przyk³ad?|- Zaproœ go na drinka,
+{27762}{27913}po 20 minutach rozmowy zdawkowo wspomnij,|¿e chcesz za niego wyjœæ, uprawiaæ seks i mieæ kupê dzieciaków.
+{27916}{27960}- Wiesz o tym?|- Tak.
+{27963}{28035}I Karl te¿.
+{28037}{28085}Pomyœl o tym, na mi³oœæ bosk¹.
+{28088}{28160}Id¹ Œwiêta.
+{28187}{28260}Z pewnoœci¹. Doskonale. Tak zrobiê.
+{28263}{28332}Dziêki, szefie.
+{28362}{28448}- Czeœæ, Sarah.|- Czeœæ, Karl.
+{28663}{28764}Dziecino.|Oczywiœcie, wal œmia³o.
+{28787}{28885}Mia, Mia, mo¿esz to przyciszyæ?
+{28887}{28910}Co to jest?
+{28913}{29010}To by³a œwi¹teczna próbka|niegdyœ wielkiego Billy Mack'a.
+{29013}{29085}O rany, jak¿e nisko upad³.
+{29088}{29210}Mogê œmia³o powiedzieæ,|¿e to najgorsze nagranie tego wieku...
+{29212}{29310}Zbiegiem okolicznoœci,|za kilka minut Billy bêdzie goœciem
+{29312}{29410}w programie mojego przyjaciela Mike'a.
+{29412}{29460}Witaj z powrotem, Bill.
+{29463}{29531}Billy, witaj znów w eterze.
+{29539}{29614}Nowy singiel œwi¹teczny,|tytu³owy z Mi³oœæ jest wszêdzie.
+{29621}{29735}Tyle tylko, ¿e zmieniliœmy s³owo|"mi³oœæ" na "Œwiêta".
+{29737}{29822}Tak, czy to dla ciebie|istotne przes³anie, Bill?
+{29843}{29860}Niespecjalnie, Mike.
+{29863}{29981}Œwiêta to dla czas ludzi,|którzy maj¹ kogo kochaæ.
+{29994}{30035}- A ty siê do nich nie zaliczasz?|- Ja nie, Michael.
+{30038}{30135}Kiedy by³em m³ody i popularny,|by³em tak¿e zach³anny i g³upi
+{30138}{30235}a teraz zosta³em z niczym,|samotny i pomarszczony.
+{30238}{30317}- Dziêki za to, Bill.|- Za co?
+{30320}{30360}Za udzielenie szczerej|odpowiedzi na pytanie.
+{30362}{30460}Mogê ciê zapewniæ,|tutaj w Radio Watford, nieczêsto siê to zdarza.
+{30463}{30567}- Zapytaj mnie o coœ, powiem ci prawdê.|- Najlepsza laska, jak¹ kiedykolwiek mia³eœ?
+{30574}{30644}- Britney Spears.|- Coœ takiego.
+{30646}{30695}Tylko ¿artowa³em!
+{30698}{30757}- By³a do niczego.|- W porz¹dku, jeszcze jedno.
+{30759}{30862}Jak twoje nowe nagranie|wytrzymuje porównanie ze star¹ klasyk¹?
+{30865}{30964}Daj spokój, Mikey, wiesz tak samo jak ja,|¿e to nagranie to œmieæ.
+{30999}{31060}Ale czy¿ nie by³oby wspaniale,|gdyby w te Œwiêta numerem jeden
+{31062}{31110}nie zosta³ jakiœ|zadowolony z siebie nastolatek,
+{31112}{31241}ale stary eks-narkoman|pragn¹cy powrotu za wszelk¹ cenê?
+{31243}{31310}Te m³ode pop-gwiazdy|bêd¹ w te Œwiêta wyci¹gniête nago
+{31312}{31360}ze s³odkim ptaszkiem balansuj¹cym na jajach,
+{31363}{31460}podczas gdy ja utknê w jakimœ|obskurnym mieszkaniu ze swoim menad¿erem Joe,
+{31462}{31510}najbrzydszym mê¿czyzn¹ œwiata,
+{31513}{31610}nieszczêœliwy jak cholera,|bo nasze pieprzone ryzyko nie op³aci³o siê.
+{31613}{31735}Wiêc dzieci, jeœli wierzycie|w Œw. Miko³aja, tak jak wujek Billy,
+{31737}{31835}kupujcie moje gówniane nagranie.
+{31837}{31910}A w szczególnoœci|rozkoszujcie siê niesamowit¹ g³upot¹
+{31912}{32010}fragmentu, gdzie usi³owaliœmy|wcisn¹æ dodatkow¹ sylabê do czwartej linijki.
+{32012}{32060}S¹dzê, ¿e odnosisz siê do
+{32062}{32135}"Wiêc jeœli naprawdê kochasz Œwiêta..."
+{32138}{32210}"Pozwól niech pada œnieg."
+{32213}{32260}Wiêc oto raz jeszcze,
+{32262}{32335}czarny koñ wyœcigu o œwi¹teczny przebój,
+{32337}{32460}"Wszêdzie wokó³ Œwiêta".|Dziêkujê, Billy. Po piosence, wiadomoœci.
+{32463}{32536}Czy nowy premier ju¿ ma k³opoty?
+{32662}{32710}- Dobrze. Nastêpny temat?|- Wizyta prezydenta.
+{32713}{32835}Tak, tak. Obawiam siê,|¿e ciê¿ko bêdzie j¹ rozegraæ. Alex.|4 TYGODNIE DO ŒWI¥T
+{32837}{32960}W partii panuje silne odczucie,|¿e nie powinniœmy daæ siê sterroryzowaæ,
+{32963}{33010}jak ostatni rz¹d.|- Tak, tak.
+{33012}{33110}To nasz pierwszy,|naprawdê powa¿ny sprawdzian, zajmijmy stanowisko.
+{33112}{33242}Prawda, prawda.|Rozumiem, ale zdecydowa³em siê...
+{33263}{33311}tego nie robiæ.|Nie tym razem.
+{33335}{33435}Oczywiœcie postaramy siê byæ sprytni,|ale nie zapominajmy, ¿e Ameryka jest najpotê¿niejszym krajem œwiata.
+{33437}{33535}Nie zamierzam zachowywaæ siê|jak nieznoœne dziecko.
+{33537}{33692}Kogo tu trzeba przelecieæ,|¿eby dostaæ fili¿ankê herbaty i herbatnika w czekoladzie?
+{33787}{33836}Jasne.
+{33887}{33959}Tak, proszê wejœæ.
+{34038}{34110}To w³aœnie przysz³o z Ministerstwa Skarbu...
+{34113}{34185}...a to dla pana.
+{34188}{34212}Doskonale. Wielkie dziêki.
+{34247}{34345}Mia³am nadziejê, ¿e pan wygra,|nie ¿ebym nie by³a mi³a dla innego goœcia,
+{34347}{34410}po prostu dawa³abym mu|zwyk³e herbatniki, bez czekolady.
+{34412}{34504}Wielkie dziêki. Dziêki...
+{34512}{34575}Natalie.
+{34662}{34815}Bo¿e, daj spokój, opanuj siê.|Na mi³oœæ bosk¹, jesteœ premierem.
+{34837}{34885}Wiêc co s¹dzisz o nowym premierze?
+{34888}{34985}Podoba mi siê.|Chocia¿ nie rozumiem, dlaczego nie jest ¿onaty.
+{34988}{35085}Znasz ten typ, wzi¹³ œlub z prac¹.
+{35087}{35160}Albo to, albo jest gejem.
+{35162}{35235}Przepraszam, Judy,|gdybyœ mog³a trochê pochyliæ piersi
+{35238}{35350}i przechyliæ siê odrobinê w lewo?|- W porz¹dku.
+{35403}{35457}Judy, muszê powiedzieæ,|¿e to prawdziwa przyjemnoœæ,
+{35463}{35535}to cudownie znaleŸæ kogoœ,|z kim mo¿na pogadaæ.
+{35537}{35585}- Dziêkujê!|- No przecie¿ wiesz.
+{35588}{35642}- I z wzajemnoœci¹.|- Dziêkujê.
+{35647}{35685}Krêcimy, Judy.
+{35687}{35807}- O przepraszam.|- O Bo¿e, przepraszam. Nic ci nie jest?
+{35813}{35885}- Pasjonuj¹ce wieœci!|- Jakie?
+{35887}{35982}Kupi³em bilet do Stanów.|Wyje¿d¿am za trzy tygodnie.
+{35989}{36010}- Nie.|- Tak!
+{36013}{36110}- Do fantastycznego miejsca zwanego Wisconsin.|- Nie!
+{36112}{36185}Tak! Dziecinki z Wisconsin,|nadchodzi Sir Colin!
+{36188}{36317}Nie, Col!|Jest parê lasek w Ameryce, przyznajê,
+{36325}{36395}ale one umawiaj¹ siê z bogatymi,|atrakcyjnymi facetami.
+{36397}{36464}Tone, jesteœ zwyczajnie zazdrosny.
+{36466}{36535}Doskonale wiesz,|¿e w ka¿dym barze w Ameryce
+{36538}{36635}jest wiêcej piêknych|i chêtnych do seksu ze mn¹ dziewczyn,
+{36637}{36760}ni¿ w ca³ym Zjednoczonym Królestwie.|- To kompletne brednie. Oszala³eœ.
+{36763}{36885}Nie, ze mn¹ w porz¹dku.|W Stanach bêdê ksiêciem Williamem bez zwariowanej rodzinki.
+{36887}{36935}- Nie, Colin, nie!|- Tak!
+{36938}{36960}- Niet!|- Da!
+{36963}{37010}- Nein!|- Ja, kochanie!
+{37012}{37085}Tak, przyjêcie œwi¹teczne,|nie nale¿y do moich ulubionych wieczorów,
+{37087}{37166}a ty masz niewdziêczn¹ rolê je zorganizowaæ.
+{37169}{37210}- Proszê mówiæ.|- Same podstawowe rzeczy.
+{37213}{37341}ZnajdŸ miejsce, z³ó¿ zamówienie na drinki,|kup hurtowe iloœci guacamoli
+{37343}{37441}i poradŸ dziewczynom, ¿eby unika³y Kevina,|jeœli nie chc¹ mieæ piersi na wierzchu.
+{37443}{37539}- ¯ony, rodziny i tym podobne?|- Tak. To znaczy - ¿adnych dzieci.
+{37542}{37610}Ale ¿ony, przyjació³ki i tak dalej.
+{37612}{37766}Chryste, chyba nie przyprowadzisz jakiegoœ|okropnego ch³opaka - metr osiemdziesi¹t, ciasny T-shirt?
+{37771}{37885}Nie. Bêdê siê krêci³a niedaleko jemio³y,|licz¹c na poca³unek.
+{37888}{37948}Naprawdê?
+{37963}{38022}No tak.
+{38238}{38335}Teraz ca³y czas przesiaduje w swoim pokoju.|To znaczy, teraz te¿ jest na górze.
+{38338}{38410}- Nic w tym niezwyk³ego. Mój ohydny syn...|- Bernard?
+{38413}{38535}Bernard. Ca³y czas siedzi w swoim pokoju.|I dziêki Bogu.
+{38537}{38635}Tak, ale Karen,|tak jest ca³y czas.
+{38637}{38735}Obawiam siê, ¿e dzieje siê|coœ naprawdê z³ego, rozumiesz?
+{38738}{38785}To jasne,|¿e chodzi o jego mamê, ale na Boga,
+{38787}{38910}z tego co wiem, móg³by sobie|wstrzykiwaæ heroinê przez ga³ki oczne.
+{38913}{38960}W wieku 11 lat?
+{38962}{39060}No to mo¿e nie przez ga³ki oczne.|Mo¿e tylko bierze do¿ylnie.
+{39062}{39210}K³opot w tym, ¿e to mama|zawsze z nim rozmawia³a, rozumiesz, i...
+{39212}{39335}no nie wiem, to ca³e bycie ojczymem,|nagle zaczyna mieæ znaczenie,
+{39337}{39385}jak nigdy przedtem.
+{39387}{39510}Pos³uchaj,|to i tak mia³ byæ okropny okres.
+{39512}{39560}B¹dŸ po prostu cierpliwy.
+{39562}{39635}I mo¿e sprawdŸ,|czy w pokoju nie ma igie³.
+{39638}{39795}A kiedy ju¿ czasami wychodzi,|widaæ po nim, ¿e p³aka³.
+{39963}{40060}To taka bezsensowna strata.
+{40063}{40160}A teraz,|jeœli to tak¿e zrujnuje ¿ycie Sam'a...
+{40162}{40235}Po prostu sam nie wiem.
+{40238}{40285}Opanuj siê.
+{40287}{40360}Ludzie nienawidz¹ p³aks.
+{40362}{40435}Nikt ju¿ nigdy nie bêdzie ciê chcia³,|jeœli bêdziesz ca³y czas p³aka³.
+{40437}{40510}Tak. Oczywiœcie.
+{40512}{40574}Zbawienna rada.
+{40738}{40835}Wiêc o co chodzi, Samuel?
+{40887}{41003}To tylko mama, czy jeszcze coœ innego?
+{41037}{41108}Mo¿e coœ w szkole?
+{41112}{41185}Ktoœ ci dokucza?
+{41188}{41260}A mo¿e to coœ gorszego?
+{41263}{41360}Mo¿esz mi chocia¿ daæ jak¹œ wskazówkê?
+{41363}{41456}- Naprawdê chcesz wiedzieæ?|- Naprawdê chcê wiedzieæ.
+{41475}{41533}Nawet jeœli nie bêdziesz w stanie mi pomóc?
+{41535}{41610}Nawet w takim przypadku.
+{41613}{41679}W porz¹dku. No wiêc...
+{41712}{41785}Prawda jest taka, ¿e...
+{41788}{41835}Jestem zakochany.
+{41837}{41885}S³ucham?
+{41887}{41985}Wiem, ¿e powinienem myœleæ o mamie|i myœlê, ale jestem zakochany.
+{41987}{42110}By³em zakochany zanim umar³a|i nic nie mogê na to poradziæ.
+{42113}{42210}- Nie jesteœ odrobinê za m³ody, aby siê zakochiwaæ?|- Nie.
+{42213}{42295}No có¿. W porz¹dku...
+{42313}{42395}Trochê mi ul¿y³o.
+{42412}{42460}- Dlaczego?|- Poniewa¿...
+{42463}{42510}Myœla³em, ¿e to coœ gorszego.
+{42512}{42597}Gorszego ni¿ umieranie z mi³oœci?
+{42638}{42710}Nie, masz racjê.
+{42713}{42780}Umieranie z mi³oœci.
+{43663}{43757}- Dobranoc, Sarah.|- Dobranoc, Karl.
+{43938}{44010}Tak, oczywiœcie.
+{44013}{44102}Wolna jak ptak.|Wal œmia³o.
+{44837}{44905}Znów samotny.
+{44912}{44960}Oczywiœcie.
+{44963}{45035}Za³atwiê to.
+{45038}{45119}- Natalie.|- Sir.
+{45162}{45210}Dziêki.
+{45213}{45275}Natalie.
+{45313}{45471}Zaczynam czuæ siê zak³opotany...
+{45474}{45523}pracujemy codziennie ze sob¹ tak blisko
+{45526}{45635}a ja wiem o tobie tak niewiele,|to wydaje siê elitarne i niedobre.
+{45638}{45685}Có¿, nie ma wiele do powiedzenia.
+{45687}{45760}Na przyk³ad, gdzie mieszkasz?
+{45763}{45841}Wandsworth.|Miejsce spod ciemnej gwiazdy.
+{45851}{45934}- Moja siostra mieszka w Wandsworth.|- Och...
+{45937}{46010}Wiêc gdzie dok³adnie|jest ta ciemna gwiazda?
+{46019}{46085}Przy koñcu Harris Street,|niedaleko Queen's Head.
+{46088}{46157}- No tak, tak, to niespecjalne miejsce.
+{46188}{46285}Mieszkasz z mê¿em? Ch³opakiem?
+{46287}{46360}- Z trójk¹ nieœlubnych, ale uroczych dzieciaków?|- Nie.
+{46363}{46486}W³aœnie rozsta³am siê ze swoim ch³opakiem,|wiêc na chwilê wprowadzi³am siê z powrotem do rodziców.
+{46516}{46560}- Przykro mi.|- Nie, jest w porz¹dku.
+{46562}{46635}Tak jest lepiej.
+{46637}{46710}- Powiedzia³, ¿e robiê siê gruba.|- S³ucham?!
+{46712}{46816}Powiedzia³, ¿e nikomu nie spodoba³aby siê|dziewczyna z udami rozmiaru pnia drzewa.
+{46819}{46917}Na koniec wcale nie by³ mi³y.
+{46919}{46974}Nie.
+{47113}{47185}Wiesz co...
+{47188}{47285}Bêd¹c premierem,|móg³bym go po prostu kazaæ zamordowaæ.
+{47288}{47347}Dziêkujê, sir. Przemyœlê to.
+{47375}{47435}Zrób to.|SAS s¹ niew¹tpliwie zachwycaj¹cy.
+{47437}{47567}Bezwzglêdni,|wyszkoleni zabójcy - tylko jeden telefon.
+{47699}{47761}O Bo¿e.
+{47787}{47889}Te¿ mia³aœ takie k³opoty?
+{47913}{47961}Tak, jasne, ¿e mia³aœ,|ty zuchwa³a flirciaro.
+{47985}{48060}Wiêc dalej.|Z pewnoœci¹ sobie poradzimy.
+{48070}{48110}Pamiêtaj,|¿e kiedyœ te¿ by³em dzieckiem.
+{48112}{48210}No wiêc to ktoœ ze szko³y. Tak?
+{48212}{48260}- Tak.|- Dobrze, dobrze.
+{48263}{48335}A co ona, on czuje do ciebie?
+{48338}{48410}ONA nawet nie wie, jak mam na imiê.
+{48413}{48485}A nawet gdyby wiedzia³a, gardzi³aby mn¹.
+{48488}{48535}To najfajniejsza dziewczyna w szkole.
+{48537}{48635}I ka¿dy j¹ uwielbia, bo jest boska.
+{48637}{48705}Dobrze. Dobrze.
+{48712}{48770}No có¿,
+{48787}{48862}w zasadzie masz przechlapane, no nie?
+{48987}{49060}Czeœæ wam i witajcie z powrotem.
+{49062}{49160}Wiêc Billy, na 3 tygodnie przed Œwiêtami,|wygl¹da na to, ¿e Blue bêd¹ prawdziw¹ konkurencj¹.
+{49162}{49281}Widzia³em ich wystêp w zasz³ym tygodniu.|Nie wyra¿ali siê dobrze o moim nagraniu.
+{49289}{49335}Nie. A to ³otry.
+{49337}{49410}Ale bardzo, bardzo utalentowani muzycy.
+{49412}{49531}Tak. Jak rozumiem,|masz nagrodê dla zwyciêzców konkursu.
+{49534}{49665}Tak, to bêdzie Ant albo Dec.|To pisak z inicja³ami zwyciêzcy.
+{49668}{49708}Wspaniale.
+{49710}{49785}Jest genialny.|Pisze nawet na szkle.
+{49788}{49885}Wiêc gdybyœcie mieli oprawione zdjêcie,|jak na przyk³ad to przedstawiaj¹ce Blue,
+{49888}{49976}mo¿na po prostu coœ na nim napisaæ.
+{50187}{50317}MAMY MA£E FIUTY.
+{50323}{50380}- Billy, ogl¹da nas du¿o dzieciaków.|- Ach tak.
+{50382}{50430}Czeœæ, dzieciaki.
+{50437}{50535}Wujek Bill ma dla was wa¿n¹ wiadomoœæ.
+{50537}{50612}Nie kupujcie narkotyków.
+{50642}{50715}Zostañcie gwiazd¹ pop,|a dadz¹ wam je za darmo.
+{50718}{50841}A teraz czas na reklamy.|Za chwilê zobaczymy siê ponownie. Na razie.
+{50848}{50907}3 TYGODNIE DO ŒWI¥T
+{51112}{51210}- Spójrz na niego!|- Jedn¹ chwilê.
+{51212}{51287}W³aœciwie to nie jest zabawne.|To sztuka.
+{51387}{51435}W porz¹dku, powiedzmy u mnie w czwartek.
+{51438}{51566}Wspaniale. Na drugiej linii mam Juliet,|prze³¹czê j¹, chce poprosiæ ciê o przys³ugê.
+{51569}{51690}- No dobrze.|- Dziêki i b¹dŸ mi³y.
+{51692}{51785}- Zawsze jestem mi³y.|/- Wiesz co mam na myœli, Marky, b¹dŸ przyjacielski.
+{51788}{51860}- Zawsze jestem...|/- Mark?
+{51863}{51910}Czeœæ. Jak tam miesi¹c miodowy?
+{51912}{52018}By³o wspaniale.|Dziêki za fantastyczne po¿egnanie.
+{52021}{52085}- Wiêc co mogê dla ciebie zrobiæ?|/- To drobna przys³uga.
+{52087}{52160}W³aœnie ogl¹da³am|film ze œlubu - to katastrofa.
+{52162}{52235}/- Wszystko jest zamazane i na niebiesko.|- Przykro mi.
+{52237}{52339}Pamiêtam, ¿e mnóstwo filmowa³eœ|i zastanawia³am siê, czy mogê na to rzuciæ okiem.
+{52341}{52394}Prawdê mówi¹c, naprawdê nie...
+{52396}{52515}Proszê. Chcê chocia¿ jednego zdjêcia w sukni œlubnej,|która nie jest w kolorze turkusowym.
+{52518}{52610}Muszê poszukaæ, ale jestem prawie pewny,|¿e to zagra³em, wiêc nie rób sobie nadziei.
+{52612}{52696}/Muszê koñczyæ.
+{52787}{52860}Jakiœ postêp ze swataniem?
+{52862}{52967}Nie. Wszystko spieprzy³am|i nic z tego nie bêdzie, bo jest dla mnie za dobry.
+{52971}{53035}To prawda.
+{53037}{53085}- Przestañ.
+{53088}{53160}I oczywiœcie znów twój telefon.
+{53163}{53250}Witaj. Czeœæ.|Jak siê masz?
+{53263}{53310}- Wiêc jak tam przyjêcie œwi¹teczne?|- Dobrze.
+{53313}{53385}Myœlê, ¿e znalaz³am miejsce.|Mój przyjaciel tam pracuje.
+{53387}{53460}- Jak wygl¹da?|- Dobrze. Dobrze.
+{53462}{53608}To galeria sztuki. Du¿o mrocznych zak¹tków|do zaspokajania mrocznych zachcianek.
+{53637}{53702}W porz¹dku.
+{53712}{53810}Dobrze. Có¿, myœlê,|¿e chyba powinienem siê temu przyjrzeæ.
+{53812}{53880}Powinien pan.
+{54312}{54360}Bonjour, Eleonore.
+{54363}{54435}Bonjour, panie Bennett.|Witam ponownie.
+{54438}{54485}Czy w tym roku przywióz³ pan pani¹?
+{54487}{54560}Nie.|Sytuacja siê zmieni³a. Tylko ja.
+{54562}{54660}- Czy¿byœmy byli smutni?|- Myœlê, ¿e nie jesteœ zaskoczona.
+{54662}{54735}- I zostanie pan do Œwi¹t?|- Tak, tak.
+{54737}{54860}Dobrze. Znalaz³am panu|idealn¹ osobê do sprz¹tania domu.
+{54863}{54912}Oto Aurelia.
+{55025}{55092}- Bonjour, Aurelia.|- Bonjour.
+{55094}{55210}Je suis... tres heureux|de vous avoir ici.
+{55213}{55310}Niestety ona nie mówi po francusku,|tak samo jak pan.
+{55313}{55360}Jest Portugalk¹.
+{55362}{55435}Ach, buongiorno.
+{55437}{55485}Eusebio...
+{55488}{55560}Molto bueno...
+{55563}{55685}Chyba jest z 10 lat za m³oda,|¿eby pamiêtaæ, ¿e by³ taki pi³karz Eusebio.
+{55687}{55756}A "molto bueno"|jest po hiszpañsku.
+{55766}{55785}Racja.
+{55787}{55860}Jednakowo¿, mi³o ciê poznaæ i...
+{55862}{55910}Czy móg³by pan|odwieŸæ j¹ po pracy do domu?
+{55913}{56010}Tak, oczywiœcie.|Con-Con grande... pl-plesura.
+{56013}{56098}A to po jakiemu?|Po turecku?
+{56263}{56335}Bello.
+{56338}{56403}Bella.
+{56413}{56485}Mon-montagno,
+{56487}{56552}arvarez...
+{56588}{56681}To prawda.|Milczenie jest z³otem.
+{56712}{56795}Jak powiedzieli Tremeloes.
+{56812}{56835}Sprytne ch³opaki.
+{56837}{56985}Chocia¿ s¹dzê, ¿e pierwotna wersja|by³a Frankie'go Valli i The Four Seasons.
+{56987}{57036}Wspania³y zespó³.
+{57087}{57137}Rany, zamknij siê.
+{57412}{57485}Panie prezydencie!
+{57488}{57585}- Tutaj, sir!|- O czym bêd¹ panowie rozmawiaæ?
+{57587}{57635}Panie prezydencie, witam.
+{57638}{57685}Poznaæ pani¹, to przyjemnoœæ.
+{57687}{57760}ChodŸmy. Przykro mi,|¿e pañska ¿ona nie mog³a przyjechaæ.
+{57762}{57835}Ona te¿ ¿a³uje.|Chocia¿ czu³aby siê tu raczej osamotniona.
+{57837}{57885}Tak. ¯a³osne, prawda?
+{57888}{57957}Po prostu nigdy nie by³em w stanie|przywi¹zaæ do siebie dziewczyny.
+{57964}{58010}Polityka i randki chyba nie id¹ w parze.
+{58012}{58085}Naprawdê?|Nigdy tego nie odczu³em.
+{58088}{58185}Tak, pan jest wci¹¿ zniewalaj¹co przystojny,|podczas gdy ja wygl¹dam jak moja ciotka Mildred.
+{58187}{58310}- Przy okazji, zazdroszczê panu samolotu.|- Dziêkujê. Te¿ nam siê podoba.
+{58313}{58360}Natalie. Witaj.
+{58362}{58435}Dzieñ dobry pani.|Jak min¹³ dzieñ?
+{58437}{58536}Wspaniale.
+{58562}{58635}Bo¿e mój, niez³a sztuka.
+{58637}{58685}Widzia³ pan te piersi?
+{58688}{58760}Tak, jest fantastyczna.|W pracy.
+{58763}{58885}Nie, absolutnie nie.|Nie mo¿emy i nie bêdziemy konsultowaæ tak¿e i tego.
+{58887}{58935}To niespodziewane.
+{58938}{58985}Có¿, a nie powinno.
+{58987}{59060}Ostatnia administracja|postawi³a sprawê zupe³nie jasno.
+{59062}{59135}Jesteœmy spójni z ich polityk¹.
+{59137}{59210}Z ca³ym szacunkiem,|ale to by³a z³a polityka.
+{59212}{59285}Dziêki, Alex.|S¹dzê, ¿e w tej sprawie nie uczynimy postêpu.
+{59288}{59385}IdŸmy... idŸmy dalej, dobrze?
+{59438}{59546}Có¿, to by³ interesuj¹cy dzieñ.
+{59562}{59660}Przykro mi, jeœli nasze stanowisko by³o twarde,|ale nie ma sensu chodziæ dziœ na paluszkach,
+{59662}{59735}a potem rozczarowywaæ was przez cztery lata.
+{59737}{59810}Mam plany i zamierzam je przeprowadziæ.
+{59813}{59885}Oczywiœcie.|Jest taka jedna rzecz, na któr¹ trzeba spojrzeæ.
+{59888}{59960}Jest bardzo bliska memu sercu.|Proszê daæ mi tylko chwilkê.
+{59963}{60010}Dam panu cokolwiek pan zechce.
+{60012}{60136}Dopóki nie jest to coœ,|czego nie zamierzam daæ.
+{60213}{60260}Czeœæ.
+{60262}{60327}¯a³osne.
+{60787}{60865}Wspania³a szkocka.
+{60887}{60988}To ja... to ja ju¿ sobie pójdê.
+{61013}{61060}Natalie,
+{61062}{61206}Mam nadziejê widywaæ ciê czêœciej,|kiedy nasze kraje rozpoczn¹ wypracowywanie lepszej przysz³oœci.
+{61216}{61290}Dziêkujê, sir.
+{61637}{61685}Tak, Peter.
+{61688}{61735}Panie prezydencie,|czy to by³a dobra wizyta?
+{61737}{61826}Bardzo zadawalaj¹ca, w rzeczy samej.
+{61837}{61885}Dostaliœmy to po co przyjechaliœmy,
+{61887}{61985}a nasze wyj¹tkowe stosunki|s¹ wci¹¿ bardzo wyj¹tkowe.
+{61987}{62035}Panie premierze?
+{62038}{62160}Uwielbiam s³owo "stosunki".|Pokrywa wszelkie rodzaje grzechów, nieprawda¿?
+{62162}{62260}Obawiam siê, ¿e nasze stosunki|sta³y siê z³ymi stosunkami.
+{62262}{62360}Stosunki polegaj¹ce na tym,|¿e prezydent bierze co chce
+{62363}{62515}i swobodnie ignoruje rzeczy,|na których naprawdê zale¿y...
+{62563}{62610}Wielkiej Brytanii.
+{62612}{62710}Mo¿e i jesteœmy ma³ym krajem,|ale jesteœmy zarazem wielcy.
+{62713}{62785}Kraj Szekspira,|Churchill'a, Beatlesów,
+{62787}{62860}Sean'a Connery'ego,|Harry'ego Potter'a.
+{62862}{62935}Prawej nogi Davida Beckham'a.
+{62937}{63010}Mo¿na do tego dodaæ|tak¿e lew¹ nogê Davida Beckham'a.
+{63012}{63085}A przyjaciel, którzy nas terroryzuje,|nie jest d³u¿ej naszym przyjacielem.
+{63088}{63185}A poniewa¿ na terror|odpowiada siê tylko si³¹, od teraz,
+{63187}{63260}bêdê o wiele silniejszy.
+{63263}{63337}I prezydent powinien byæ na to przygotowany.
+{63588}{63657}Panie prezydencie!
+{63738}{63785}Joe.
+{63787}{63860}Pañska siostra na czwartej linii.
+{63863}{63985}W porz¹dku.|Jestem bardzo wa¿ny i zajêty, w czym mogê pomóc?
+{63987}{64035}Czyœ ty kompletnie oszala³?
+{64038}{64135}- Nie mo¿na byæ powa¿nym przez ca³y czas.|/- Trzeba, jeœli jest siê premierem.
+{64137}{64185}- Mam ministra skarbu na drugiej linii.|- Nieprawda!
+{64188}{64298}/- Oddzwoniê.|- Nie zrobisz tego!
+{64312}{64460}K³opot w byciu siostr¹ premiera polega na tym,|¿e spogl¹dasz na ¿ycie z innej perspektywy.
+{64463}{64535}Co zrobi³ dzisiaj mój brat?|Walczy³ na rzecz kraju.
+{64538}{64656}A co ja zrobi³am?|Papierow¹ g³owê homara.
+{64662}{64710}Czego to s³uchamy?
+{64713}{64760}Joni Mitchell.
+{64762}{64835}Nie mogê uwierzyæ,|¿e ci¹gle s³uchasz Joni Mitchell.
+{64837}{64935}Uwielbiam j¹, a prawdziwa mi³oœæ trwa ca³e ¿ycie.
+{64937}{65071}Joni Mitchell nauczy³a twoj¹ zimn¹,|angielsk¹ ¿onê, co to s¹ uczucia.
+{65095}{65210}Nauczy³a? No có¿, to dobrze,|muszê wys³aæ jej podziêkowania.
+{65213}{65286}Która lalka bêdzie dla Emily,|przyjació³ki Daisy?
+{65289}{65401}Ta jak transwestyta,|czy ta z dominuj¹cym wygl¹dem?
+{65403}{65485}/To prawie wystarczy³o,|/¿ebyœmy poczuli siê jak patrioci,
+{65488}{65571}/wiêc teraz coœ dla naszego premiera,|/specjalisty od kopania ty³ków.
+{65588}{65662}/Klasyka dla klasyka.
+{66812}{66860}Tak...
+{66863}{67007}Mary, czy mo¿emy przesun¹æ|ambasadora japoñskiego jutro na czwart¹?
+{67015}{67134}- Z pewnoœci¹, sir.|- Fantastycznie. Bardzo dziêkujê.
+{67148}{67217}2 TYGODNIE DO ŒWI¥T
+{67262}{67310}Chcia³abyœ ostatni...?
+{67313}{67385}Bardzo dziêkujê, ale nie.
+{67388}{67435}Gdybyœ zobaczy³ moj¹ siostrê,|to zrozumia³byœ dlaczego.
+{67437}{67485}W porz¹dku,|zostanie wiêcej dla mnie.
+{67488}{67535}Tylko nie zjadaj tego wszystkiego sam,
+{67538}{67585}z ka¿dym dniem robisz siê bardziej pyzaty.
+{67587}{67686}Na szczêœcie mam tak¹ budowê fizyczn¹,|¿e nigdy nie przybieram na wadze.
+{67738}{67833}Halo.
+{68035}{68084}Przepraszam.
+{68138}{68197}Halo?
+{68562}{68610}- Dziêkujê.|- Nao!
+{68612}{68685}- Eu peco imensa desculpa.|- No nie. Zaczekaj.
+{68688}{68760}- O Bo¿e, to po³owa ksi¹¿ki. No nie...|- Que desastre.
+{68763}{68835}Po prostu je zostaw!|To nic wa¿nego!
+{68838}{68910}One nie s¹ tego warte!
+{68913}{68979}Zatrzymaj siê! Zatrzymaj siê.
+{69062}{69145}To tylko zwyk³e bzdury.
+{69162}{69233}Po prostu je zostaw.
+{69487}{69565}O Bo¿e, wskoczy³a.
+{69587}{69685}Jeœli te¿ nie wejdê,|weŸmie mnie za kompletnego durnia.
+{69688}{69782}Cholera, ale zimna!
+{69837}{69885}Cholera - lodowata! Cholera!
+{69888}{69985}Niech to lepiej bêdzie dobre.
+{69988}{70060}Nie jest tego warte,|to nie cholerny Szekspir.
+{70063}{70110}Nie chcê siê utopiæ
+{70112}{70185}ratuj¹c jakieœ bzdury,|które mog³aby napisaæ moja babka.
+{70187}{70220}Po prostu przestañ.|Przestañ.
+{70223}{70285}Co za idiota nie robi kopii?
+{70287}{70360}Naprawdê muszê zacz¹æ robiæ kopie.
+{70362}{70410}Lepiej, ¿eby tu nie by³o wêgorzy.|Nie cierpiê wêgorzy.
+{70413}{70487}Postarajmy siê nie sp³oszyæ wêgorzy.
+{70509}{70598}Co to jest, do diab³a?
+{70787}{70882}Dziêkujê.|Bardzo ci dziêkujê.
+{70937}{71035}Wiem,|nazwê jedn¹ z postaci twoim imieniem.
+{71037}{71135} Mo¿e powinieneœ|nazwaæ jedn¹ z postaci moim imieniem.
+{71137}{71210}Albo daæ mi 5% z zysków.
+{71212}{71322}Albo móg³bym ci daæ 5% z zysków.
+{71363}{71469}Jaki to rodzaj ksi¹¿ki?
+{71637}{71685}- Romans?|- Ach, o to chodzi.
+{71688}{71761}To jest...
+{71788}{71860}Thriller... krymina³...
+{71863}{71962}Krymina³.|Zbrodnia, morderstwo.
+{71987}{72021}Przera¿aj¹cy?
+{72025}{72096}Straszny?|Tak, miejscami straszny.
+{72099}{72238}A miejscami nie.|Straszny g³ównie ze wzglêdu na styl.
+{72512}{72585}Lepiej wrócê ju¿ do pracy.
+{72587}{72685}PóŸniej odwieziesz mnie do domu?
+{72687}{72745}Pewnie.
+{72813}{72885}To moja ulubiona czêœæ dnia...
+{72888}{72955}kiedy ciê odwo¿ê.
+{72988}{73125}To najsmutniejsza czêœæ dnia,|kiedy ciê opuszczam.
+{73238}{73297}Przepraszam.
+{73938}{74041}/Za chwilê wyst¹pi ten facet.
+{74137}{74210}/Niepoprawny dziadek rock'n'rolla,
+{74212}{74315}/u nas o 10:30. Nie wy³¹czajcie odbiorników.
+{74442}{74490}Ciastko?
+{74494}{74510}Nie, dziêki.
+{74512}{74610}Chwa³a Bogu.|Z³ama³byœ mi serce, gdybyœ siê poczêstowa³.
+{74613}{74685}No có¿, masz szczêœcie.
+{74688}{74785}- Mogê wejœæ?|- Có¿, jestem odrobinê zajêty...
+{74788}{74885}W³aœnie przechodzi³am i pomyœla³am,|¿e moglibyœmy przejrzeæ tê kasetê video.
+{74888}{74960}Myœla³am, ¿e mog³abym|wymieniæ j¹ za ciastko
+{74963}{75035}albo za Munchies?
+{75038}{75135}W³aœciwie, to mówi³em powa¿nie|- nie wiem gdzie ona jest. Poszukam jej wieczorem.
+{75138}{75210}Mark, mogê coœ powiedzieæ?
+{75213}{75271}Tak.
+{75287}{75357}Wiem, ¿e jesteœ|najlepszym przyjacielem Peter'a.
+{75368}{75492}I nigdy nie by³eœ|w stosunku do mnie szczególnie serdeczny.
+{75495}{75535}Proszê, nie zaprzeczaj.
+{75537}{75606}Nigdy siê nie zaprzyjaŸniliœmy.
+{75608}{75660}Ale chcia³am powiedzieæ...|Mam nadziejê, ¿e to siê zmieni.
+{75663}{75785}Jestem sympatyczna. Naprawdê.|Pomijaj¹c okropny poci¹g do ciastek i...
+{75787}{75860}By³oby wspaniale,|gdybyœmy mogli zostaæ przyjació³mi.
+{75862}{75948}Oczywiœcie. Z pewnoœci¹.
+{76013}{76060}Wspaniale.
+{76062}{76135}Co nie znaczy,|¿e bêdê w stanie znaleŸæ tê taœmê.
+{76137}{76235}Naprawdê naszuka³em siê po twoim telefonie,|ale nie mog³em jej znaleŸæ, wiêc...
+{76238}{76310}Tu jest napisane:|"Œlub Peter'a i Juliet".
+{76312}{76360}Czy nie s¹dzisz,|¿e wpadliœmy na w³aœciwy trop?
+{76363}{76485}No có¿...|To... to mo¿e byæ ta.
+{76487}{76545}- Czy mog³abym...?|- Prawdopodobnie coœ ju¿ na niej nagra³em.
+{76548}{76637}Prawie wszystko to odcinki West Wing.
+{76737}{76802}Bingo.
+{76812}{76860}Urocze.
+{76863}{76935}Dobra robota.
+{76963}{77035}Niesamowite.
+{77038}{77182}Tak ci dziêkujê, Mark,|dok³adnie tego szuka³am.
+{77313}{77392}Wygl¹dam ca³kiem ³adnie.
+{77538}{77628}Trzyma³eœ siê raczej blisko.
+{78887}{78965}Wszêdzie tylko ja.
+{79038}{79110}Tak, tak.
+{79113}{79168}Tak.
+{79888}{79946}Ale...
+{79963}{80045}Ty nigdy ze mn¹ nie rozmawiasz.
+{80063}{80151}Zawsze rozmawiasz z Peter'em.
+{80187}{80260}Nie lubisz mnie.
+{80262}{80310}Mam nadziejê, ¿e ci siê to przyda.
+{80313}{80385}Nie afiszuj siê z tym za bardzo.
+{80388}{80460}Wymaga troszkê obróbki.
+{80463}{80560}Pos³uchaj, muszê iœæ na... lunch.
+{80563}{80610}Wczesny lunch.
+{80612}{80725}Sama wyjdziesz, prawda?
+{80813}{80926}Wiesz... to instynkt samozachowawczy.
+{82313}{82392}- Tak.
+{82437}{82536}Annie, moja kochana,|mój œnie, moja ostatnia desko ratunku.
+{82587}{82660}- Chcia³bym, ¿ebyœ wyœwiadczy³a mi przys³ugê.|- Oczywiœcie.
+{82662}{82760}Dla bohatera wszystko.
+{82762}{82835}Nie pytaj dlaczego|i nie wci¹gaj w to personelu.
+{82837}{82885}To tylko taka dziwna sprawa osobista.
+{82888}{82960}Ale... znasz Natalie,|która tutaj pracuje?
+{82963}{83032}Tê dziewczynê przy koœci?
+{83046}{83085}Myœlisz, ¿e jest przy koœci?
+{83088}{83210}Mamy tu do czynienia z ca³kiem pokaŸn¹ pup¹,|tak sir. Potê¿ne uda.
+{83212}{83304}Tak. No có¿, niewa¿ne...
+{83313}{83455}To z pewnoœci¹ urocza dziewczyna,|ale mo¿e mog³abyœ...
+{83462}{83535}przenieœæ j¹ gdzie indziej?
+{83537}{83602}Zrobione.
+{84438}{84485}Hej, Sammo. Nie mo¿esz spaæ?
+{84487}{84560}Us³ysza³em dziœ okropne wieœci.
+{84562}{84610}Mów.
+{84613}{84685}- Joanna wraca do Ameryki.|- Twoja dziewczyna jest Amerykank¹?
+{84688}{84735}Tak, to Amerykanka.
+{84737}{84785}I nie jest moj¹ dziewczyn¹.
+{84788}{84885}Wraca z powrotem do Ameryki.|Dla mnie to koniec œwiata.
+{84888}{84963}To paskudne nowiny.
+{85012}{85060}Có¿, potrzebujemy Kate,
+{85063}{85136}potrzebujemy Leo, i to natychmiast.
+{85170}{85232}ChodŸ.
+{85262}{85335}/Trzymaj siê. Trzymaj siê.
+{85337}{85385}/Nie otwieraj oczu.
+{85388}{85494}/- Ufasz mi?|/- Ufam.
+{85512}{85585}- Ufasz mi?|- Ufam.
+{85588}{85687}- G³upcze!|- Puszczaj mnie, ty brutalu.
+{85712}{85804}/Dobrze, teraz otwórz oczy.
+{85862}{85935}Wiesz co, Sammy,|jestem pewien, ¿e ona jest jedyna i niezwyk³a,
+{85937}{86010}ale ogólna m¹droœæ mówi,
+{86013}{86110}¿e œwiat nie koñczy siê|na jednej, jedynej osobie.
+{86112}{86160}Dla Kate i Leo tak by³o.
+{86163}{86235}I dla ciebie.
+{86238}{86285}I dla mnie te¿.
+{86287}{86359}Ona jest t¹ jedyn¹.
+{86363}{86435}Uczciwe postawienie sprawy.|I ma na imiê Joanna?
+{86438}{86527}Tak, wiem. Tak samo jak mama.
+{86763}{86843}Proszê.
+{86912}{87022}- Panie premierze.|- Bardzo dziêkujê.
+{87363}{87410}Appolo... appologia.
+{87412}{87560}Grande... grande familio,|grande tradizione de Christmas prezentów.
+{87563}{87625}Stupido.
+{88238}{88285}¯egnaj wiêc.
+{88287}{88372}Dziêkujê.
+{88413}{88492}To by³o...
+{88513}{88606}Bêdzie mi ciebie brakowaæ.
+{88612}{88705}I twojego powolnego pisania na maszynie...
+{88712}{88801}I kiepskiego prowadzenia samochodu.
+{90887}{90948}Daniel!
+{90962}{91060}- Mam pewien plan.|- Chwa³a Panu. Mów.
+{91062}{91157}- Dziewczyny uwielbiaj¹ muzyków, prawda?
+{91168}{91232}- Nawet ci najbardziej pokrêceni maj¹ dziewczyny.|- Zgadza siê.
+{91236}{91277}Meat Loaf z pewnoœci¹|mia³ przynajmniej jedn¹.
+{91283}{91360}Na mi³oœæ bosk¹,|Ringo Starr o¿eni³ siê z dziewczyn¹ Bond'a.
+{91363}{91460}Niewa¿ne. Na koniec semestru|jest wielki koncert i Joanna wystêpuje.
+{91462}{91560}Pomyœla³em,|¿e gdybym trafi³ do zespo³u i zagra³ fantastycznie,
+{91562}{91635}mog³aby siê we mnie zakochaæ.|Jak s¹dzisz?
+{91637}{91685}S¹dzê, ¿e to genialne.
+{91688}{91785}Z wyj¹tkiem jednego drobiazgu.
+{91788}{91885}- Nie gram na ¿adnym instrumencie?|- Tak, sir.
+{91887}{91966}Malutki, nic nieznacz¹cy szczegó³.
+{92020}{92117}RYTM TO MOJE ¯YCIE
+{92837}{92910}Chyba lepiej zrobiê obowi¹zkow¹ rundkê.
+{92913}{92985}Jesteœ anio³em.
+{93138}{93210}Jakaœ szansa na taniec z szefem?
+{93212}{93285}Tak, pewnie, pewnie.
+{93287}{93385}Jeœli tylko twój ch³opak|nie ma nic przeciwko temu.
+{93387}{93437}To nie mój ch³opak.
+{93812}{93910}Wygl¹dasz dziœ bardzo ³adnie.
+{93913}{93983}To dla pana.
+{94013}{94072}S³ucham?
+{94113}{94195}To wszystko dla pana, sir.
+{94688}{94810}/Walka o œwi¹teczny numer jeden,|/musi byæ bardzo podniecaj¹ca.
+{94813}{94885}/- Jak idzie do tej pory?|/- Rzeczywiœcie bardzo kiepsko.
+{94888}{94960}/Blue sprzedaj¹ piêæ razy wiêcej,
+{94963}{95035}/ale mam nadziejê na póŸniejszy wzrost.
+{95038}{95110}/I jeœli dojdê do pierwszego miejsca,
+{95112}{95255}/obiecujê zaœpiewaæ|/w telewizji w Wigiliê zupe³nie nago.
+{95287}{95335}/- Mówisz powa¿nie?|/- Oczywiœcie, ¿e tak, Michael.
+{95337}{95412}/Chcesz zobaczyæ próbkê?|/Flirciarz z ciebie...
+{95512}{95561}/To nigdy nie wejdzie na szczyt.
+{95712}{95810}To chyba jego zadanie,|tañczyæ z ka¿d¹, prawda?
+{95813}{95896}Z niektórymi nawet czêœciej.
+{95937}{95985}Chocia¿ jeden taniec?
+{95988}{96060}- Zanim skoñcz¹ graæ.|- Z kim, ze mn¹?
+{96062}{96167}- Chyba, ¿e nie...|- Nie! Nie! Dobrze.
+{96188}{96256}Tak. Dziêki.
+{98362}{98410}Có¿, lepiej ju¿ pójdê.
+{98413}{98468}Dobrze.
+{98488}{98578}- Dobranoc.|- Dobranoc.
+{98962}{99010}W³aœciwie...
+{99013}{99060}- Wcale nie muszê iœæ.|- Racja. Dobrze.
+{99062}{99135}- To znaczy...|- Nie, w porz¹dku.
+{99137}{99257}Dasz mi tylko chwilkê?
+{99484}{99576}Ju¿, w porz¹dku...
+{99584}{99682}Mo¿e wejdziesz na górê|za jakieœ 10 sekund?
+{99684}{99777}- 10 sekund.|- 10 sekund.
+{101184}{101258}- Po prostu szarpnij.|- Dobrze.
+{101759}{101833}Jesteœ piêkna.
+{102384}{102472}Chyba lepiej odbiorê.
+{102534}{102607}Halo. Czeœæ.|Witaj kochanie.
+{102609}{102707}Nie, nie, nie jestem zajêta.|Nie, wal œmia³o.
+{102709}{102757}Jasne.
+{102759}{102857}Tak... nie jestem pewna,|czy dziœ mo¿liwa bêdzie
+{102859}{102957}rozmowa telefoniczna z papie¿em, ale...
+{102959}{103087}Tak. Tak, na pewno|jest bardzo dobrym egzorcyst¹, ale...
+{103159}{103232}Có¿, z pewnoœci¹...
+{103234}{103332}Jon Bon Jovi tak samo|i na pewno sprawdzê.
+{103334}{103407}Dobrze? Porozmawiamy póŸniej.
+{103409}{103488}W porz¹dku, Na razie.
+{103584}{103682}- Przepraszam za to.|- Nic siê nie sta³o.
+{103684}{103805}To mój brat,|nie jest z nim dobrze, czêsto dzwoni.
+{103809}{103857}- Przykro mi.|- Nie, jest w porz¹dku, w porz¹dku.
+{103859}{103957}To znaczy nie jest w porz¹dku,|jest jak jest.
+{103959}{104032}Teraz, kiedy nie ma ju¿ rodziców,|jesteœmy tylko we dwoje,
+{104034}{104157}Moim zadaniem jest go pilnowaæ.|Nie moim zadaniem, oczywiœcie cieszê siê, ¿e to robiê.
+{104159}{104298}W porz¹dku.|¯ycie pe³ne jest przerw i komplikacji.
+{104334}{104392}Wiêc...
+{104784}{104870}Czy od tego poczuje siê lepiej?
+{104884}{104907}Nie.
+{104909}{104979}Wiêc mo¿e...
+{104984}{105054}nie odbieraj.
+{105209}{105282}Hej. Jak siê masz?
+{105284}{105357}Jasne, jasne.|Proszê, nie.
+{105359}{105432}Proszê, proszê nie, kochanie.
+{105434}{105557}Znajdziemy jakieœ rozwi¹zanie|i to ciê nie bêdzie wiêcej raniæ.
+{105559}{105607}Nie, nie.
+{105609}{105692}Nie jestem zajêta. Ja...
+{105709}{105807}Oczywiœcie, jeœli chcesz - przyjadê.
+{105809}{105864}Dobrze.
+{106084}{106157}To by³ udany wieczór.
+{106159}{106224}- Poza tym, ¿e czu³am siê gruba.|- Nie b¹dŸ œmieszna.
+{106236}{106257}To prawda.
+{106259}{106376}Obecnie jedyne ciuchy,|w które siê mieszczê, to te po Pavarotti'm.
+{106378}{106493}Zawsze uwa¿a³em,|¿e Pavarotti jest dobrze ubrany.
+{106509}{106586}Mia jest bardzo ³adna.
+{106609}{106670}Tak mówisz?
+{106684}{106757}Wiesz, ¿e tak jest, kochanie.
+{106759}{106835}B¹dŸ rozwa¿ny.
+{107384}{107482}Ogl¹da³eœ telewizjê?
+{107484}{107532}Tak.
+{107534}{107582}- Co wieczór.|- Dobrze.
+{107584}{107655}I w ci¹gu dnia.
+{107809}{107967}- Pielêgniarki próbuj¹ mnie zabiæ.|- Nikt nie próbuje ciê zabiæ, skarbie.
+{108059}{108124}Dziêkujê.
+{108184}{108273}Nie rób tego, kochanie.
+{108309}{108374}Dziêkujê.
+{108509}{108580}Nie rób tego.
+{109359}{109478}Dobrze. Wracam na trzeci¹.|Zakupy œwi¹teczne, nic ³atwego ani przyjemnego.
+{109484}{109558}Czy zamierza pan mnie coœ kupiæ?
+{109640}{109689}Nie wiem, nie zastanawia³em siê.
+{109701}{109741}Tak przy okazji, gdzie jest Sarah?
+{109743}{109807}Nie da³a rady przyjœæ.|Sprawy rodzinne.
+{109809}{109882}Tego okreœlenia kaca jeszcze nie s³ysza³em.
+{109884}{110003}- Do zobaczenia.|- Tak. Czekam z niecierpliwoœci¹.
+{110059}{110118}Bardzo.
+{110384}{110482}A czy ty mi coœ dasz?
+{110484}{110532}S¹dzi³am,|¿e wczoraj wieczorem postawi³am sprawê jasno.
+{110534}{110632}Jeœli o mnie chodzi,|mo¿e pan mieæ wszystko.
+{110634}{110723}Wiêc czego potrzebujesz?
+{110734}{110833}Jakiœ materia³ów biurowych?|Skoñczy³y siê zszywki?
+{110867}{110932}Nie. Nie chcê czegoœ, czego potrzebujê.
+{110934}{111032}Chcê coœ, czego pragnê.|Czegoœ ³adnego.
+{111034}{111093}Racja.
+{111109}{111168}Jasne.
+{111334}{111465}Przepraszam za spóŸnienie,|musia³am podrzuciæ Bernie'go na próbê.
+{111509}{111582}Pos³uchaj, zajmij siê czymœ,
+{111584}{111700}a ja za³atwiê tê nudê dla naszych matek.
+{112184}{112232}- Dziêkujê.|- Dziêkujê.
+{112234}{112307}Szuka pan czegoœ konkretnego, sir?
+{112309}{112382}Tak. Ten naszyjnik, ile kosztuje?
+{112384}{112449}270 funtów.
+{112484}{112602}- No dobrze, wezmê go.|- Cudownie.
+{112659}{112732}Czy ¿yczy pan sobie... zapakowaæ na prezent?
+{112734}{112825}- Tak, niech bêdzie.|- Cudownie.
+{112859}{112954}Proszê mi tylko pozwoliæ wrzuciæ go do pude³ka.
+{112959}{113007}No i ju¿.
+{113009}{113082}- Czy mo¿emy siê trochê pospieszyæ?|- Oczywiœcie, sir.
+{113084}{113185}Gotowe w mgnieniu oka.
+{113334}{113382}- Proszê.|- Wspaniale.
+{113384}{113463}Jeszcze nie ca³kiem skoñczone.
+{113534}{113632}- Nie potrzebujê torby, w³o¿ê je do kieszeni.|- To nie jest torba, sir.
+{113634}{113750}- Czy¿by?|- To o wiele wiêcej ni¿ torba.
+{114284}{114332}Proszê, czy moglibyœmy siê pospieszyæ?
+{114334}{114402}Prontissimo.
+{114871}{114942}- Co to jest?|- Laska cynamonu, sir.
+{114944}{115018}- W³aœciwie to naprawdê nie mogê czekaæ.|- Nie po¿a³uje pan, sir.
+{115026}{115057}Mo¿e siê za³o¿ymy?
+{115059}{115154}To dos³ownie jedna chwilka.
+{115184}{115298}- Proszê bardzo. Prawie skoñczone.|- Prawie skoñczone?
+{115308}{115384}Zamierza pan to jeszcze zanurzyæ w jogurcie?|Obtoczyæ w wiórkach czekoladowych?
+{115386}{115449}Nie, sir, wrzucimy to tylko|do œwi¹tecznego pude³ka.
+{115451}{115482}Nie chcê œwi¹tecznego pude³ka.
+{115484}{115553}- Przecie¿ chcia³ pan, ¿eby zapakowaæ na prezent.|- Tak, ale...
+{115558}{115607}- Ostatnie muœniêcie.|- Nie mogê po prostu zap³aciæ?
+{115613}{115657}- Potrzebujemy jeszcze tylko...|- O Bo¿e.
+{115659}{115707}-...ga³¹zki ostrokrzewu.|- Nie, nie, nie, nie.
+{115709}{115757}- ¯adnego cholernego ostrokrzewu.|- Ale sir...
+{115759}{115832}- Proszê to zostawiæ.
+{115834}{115907}- W³óczysz siê po jubilerach?|- Nie. Tak tylko siê rozgl¹da³em.
+{115909}{115982}Nie martw siê.|Moje oczekiwania nie s¹ tak wygórowane
+{115984}{116082}po 13 latach z panem "Przecie¿-Zawsze-Lubi³aœ-Apaszki".
+{116084}{116133}W³aœciwie, to ta mi siê podoba.
+{116220}{116289}1 TYDZIEÑ DO ŒWI¥T
+{116384}{116457}- Hej!|- Co ty tutaj robisz?
+{116459}{116532}Musia³em wynaj¹æ mieszkanie,|¿eby zap³aciæ za bilet.
+{116534}{116607}Chyba nie wprowadzasz w ¿ycie|tego g³upiego planu?
+{116609}{116657}I to jeszcze jak.
+{116659}{116732}Myœlisz, ¿e w tym plecaku s¹ ubranka?|Jeszcze ile.
+{116734}{116807}Jest wypchany prezerwatywami.
+{116809}{116907}Doskonale. Doskonale.|Idealnie, tak trzymaæ.
+{116909}{116982}Pos³uchaj...
+{116984}{117057}Przepraszam, ¿e mo¿e|posuwam siê trochê za daleko i w ogóle, ale...
+{117059}{117188}czy nie mia³abyœ ochoty|pójœæ na œwi¹tecznego drinka? To znaczy, bez zobowi¹zañ.
+{117191}{117307}Mo¿e tylko pójdziemy poogl¹daæ|œwi¹teczny wystrój, albo coœ w tym rodzaju.
+{117309}{117382}Oczywiœcie jeœli nie chcesz,|to nie musisz. Ja...
+{117384}{117432}Teraz zaczynam siê pl¹taæ, wybacz.
+{117434}{117482}Nie. By³oby wspaniale.
+{117484}{117549}Œwietnie.
+{117634}{117682}Wiesz, to naprawdê wspaniale.
+{117684}{117808}Normalnie jestem naprawdê nieœmia³y|i zebranie siê na odwagê trwa wieki, wiêc dziêkujê.
+{117915}{117974}RINGO RZ¥DZI
+{117976}{118107}- Wyjaœnij jeszcze raz, dlaczego siê tak spóŸni³eœ.|- Czy cz³owiek nie mo¿e mieæ ¿adnych tajemnic?
+{118109}{118208}Czekaliœmy od kilku godzin,|to prapremiera.
+{118409}{118507}By³a gwiaŸdzista noc w staro¿ytnej Jerozolimie,
+{118509}{118615}a dzieci¹tko Jezus le¿a³o w ¿³obie.
+{118719}{118782}SZKO£A JÊZYKÓW OBCYCH
+{118784}{118857}Sherlock Holmes nie jest prawdziwym detektywem.
+{118859}{118933}Czy to droga na dworzec?
+{119034}{119107}Chcia³abym bilet jednodniowy.
+{119109}{119207}O mój Bo¿e, okropnie boli mnie ¿o³¹dek.
+{119209}{119257}To musia³y byæ krewetki.
+{119259}{119357}Milton Keynes ma wiele niedomówieñ.
+{119359}{119457}O rany, to naprawdê wielka ryba!
+{119459}{119533}Wybornie smakuje!
+{119690}{119749}PRZEPRASZAM, ¯E JESTEM TAKIM PASKUDNYM FACETEM.|NIEDOBRY HARRY.
+{119884}{120013}- Wrócisz jako wrak cz³owieka.|- Tak, krêgos³up bêdzie wrakiem od nadmiaru seksu.
+{120017}{120057}Jesteœ na drodze do katastrofy.
+{120059}{120157}Nie jestem na autostradzie seksu|i zmierzam na zachód.
+{120159}{120207}¯egnaj nieudaczniku.
+{120209}{120313}Ameryko, b¹dŸ czujna!|Nadchodzi Colin Frissell.
+{120634}{120707}- Proszê mnie zawieŸæ do baru.|- Jakiego rodzaju baru?
+{120709}{120808}Po prostu do jakiegokolwiek baru.|Zwyk³ego, przeciêtnego, amerykañskiego baru.
+{120959}{121032}- Co mogê podaæ?|- Poproszê Budweiser'a.
+{121034}{121134}- Król piwa.|- Ju¿ podajê.
+{121159}{121207}O mój Bo¿e.
+{121209}{121282}Jesteœ z Anglii?
+{121284}{121355}Tak.
+{121359}{121432}To takie s³odkie.
+{121434}{121507}Czeœæ, jestem Stacey.
+{121509}{121571}Jeannie?
+{121609}{121657}Tak?
+{121659}{121741}- To jest...|- Colin.
+{121759}{121807}Frissell.
+{121809}{121857}S³odkie imiê
+{121859}{121932}- Jeannie.|- On jest z Anglii.
+{121934}{121983}Tak. Z Basildon.
+{122059}{122183}Zaczekaj no, a¿ przyjdzie tu Carol-Anne.|Szaleje na punkcie Anglików.
+{122309}{122407}- Hej, dziewczyny.|- Carol-Anne, poznaj Colin'a.
+{122409}{122457}Jest z Anglii.
+{122459}{122574}Odsuñcie siê, moje panie.|On jest mój.
+{122659}{122757}Witaj, wspania³y.
+{122759}{122832}To takie zabawne!
+{122834}{122882}- A jak mówicie na to?|- Butelka.
+{122884}{122932}"Butelka."
+{122934}{122982}- A na to?|- S³omka.
+{122984}{123032}"S³omka."
+{123034}{123107}- A na to?|- Stó³.
+{123109}{123198}- Stó³. Eee, tak samo.|- Tak, tak samo.
+{123205}{123257}- Gdzie siê zatrzymasz?|- W³aœciwie to jeszcze nie wiem.
+{123259}{123332}Po prostu wynajmê pokój w motelu,|jak na filmach.
+{123334}{123407}O mój Bo¿e.|O mój Bo¿e, to takie s³odkie.
+{123409}{123507}Nie, nie, nie, pos³uchaj.|To mo¿e trochê zbyt natrêtne, bo dopiero co siê poznaliœmy, ale...
+{123509}{123582}dlaczego nie przeœpisz siê u nas?
+{123584}{123632}- Tak.|- Tak.
+{123634}{123707}Có¿, jeœli to nie sprawi k³opotu.
+{123709}{123782}- Ale¿ sk¹d!|- Ale jest jeden k³opot.
+{123784}{123832}Jaki?
+{123834}{123932}No wiesz, nie jesteœmy specjalnie bogate.
+{123934}{124032}Wiêc mamy tylko ma³e ³ó¿ko i ¿adnej kanapy.
+{124034}{124132}Wiêc bêdziesz musia³ je dzieliæ z nami trzema.
+{124134}{124282}A w tê jak¿e zimn¹ noc,|bêdzie t³oczno, bêdziemy spoceni i tak dalej.
+{124284}{124357}I nie staæ nas nawet na pi¿amy.
+{124359}{124407}Nie?
+{124409}{124457}Co oznacza...
+{124459}{124536}¿e by³ybyœmy nagie.
+{124634}{124682}Nie, nie,|s¹dzê, ¿e bêdzie œwietnie.
+{124684}{124732}Wspaniale.
+{124734}{124807}Jest jeszcze ktoœ,|kto zrobi wiêkszy t³ok.
+{124809}{124857}Harriet. Nie pozna³eœ Harriet.
+{124859}{124928}- Jest i czwarta?|- Tak.
+{124940}{125039}Nie przejmuj siê, na pewno ci siê spodoba,|bo to ona jest "ta seksowna".
+{125044}{125082}- Powa¿nie?|- Tak.
+{125084}{125203}- Chwaliæ Pana!|- I do tego chrzeœcijanin.
+{125234}{125283}Zdrówko.
+{125784}{125857}Dziœ wieczorem tylko po jednym prezencie.|Kto ma jakiœ dla taty?
+{125859}{125907}- Ja mam.|- Najpierw mama.
+{125909}{125982}- Ja dam.|- Nie, nie, nie. Sama sobie wybiorê.
+{125984}{126060}Chyba wezmê...
+{126084}{126182}-...ten.|- Kupi³em tak¿e tradycyjn¹ apaszkê,
+{126184}{126282}ale to mój inny,|odrobinê wyj¹tkowy, osobisty prezent.
+{126284}{126332}Dziêkujê.
+{126334}{126382}To naprawdê pierwszy.
+{126384}{126432}- Rozerwij!|- Co to jest?
+{126434}{126542}Mam zamiar...|W porz¹dku, rozerwê.
+{126659}{126744}Bo¿e, ale niespodzianka.
+{126759}{126832}Co to jest?
+{126834}{126929}To p³yta.|Joni Mitchell, coœ takiego.
+{126934}{126982}Abyœ kontynuowa³a|swoj¹ edukacjê emocjonaln¹.
+{126984}{127032}Tak.
+{127034}{127098}Bo¿e mój.
+{127109}{127157}To wspania³e.
+{127159}{127255}- Moja cudowna ¿ona.|- No tak.
+{127284}{127382}Nie macie nic przeciwko,|¿eby opuœci³a was na chwilê?
+{127384}{127457}Te lody...
+{127459}{127532}Kochanie,|móg³byœ przygotowaæ dzieci do wyjœcia?
+{127534}{127607}- Zaraz wracam.|- W porz¹dku, spokojnie.
+{127609}{127683}- Mój najpierw.|- Mój.
+{130484}{130507}O mój Bo¿e.
+{130509}{130582}To cud.|Wszyscy jesteœcie ubrani.
+{130584}{130657}ChodŸcie ju¿, chodŸcie,|jesteœmy straszliwie spóŸnieni.
+{130659}{130758}No dalej.|Do samochodu. Do samochodu.
+{130984}{131057}- Czy ju¿ ciê zauwa¿y³a?|- Nie.
+{131059}{131182}Ale we wszystkich romansach,|ludzie odnajduj¹ siê dopiero na koñcu.
+{131184}{131249}Oczywiœcie.
+{131259}{131358}Tak przy okazji, podle siê czujê.|Nigdy nie zapyta³em ciê, jak tam twoje ¿ycie mi³osne.
+{131384}{131432}Nie.
+{131434}{131532}Jak wiesz, to ju¿ zamkniêty rozdzia³.
+{131534}{131657}Chyba, ¿e zadzwoni Claudia Schiffer,|a wtedy masz st¹d natychmiast znikn¹æ,
+{131659}{131732}- ty ma³y, osierocony kundelku.|- Coœ takiego!
+{131734}{131857}Nie, nie. Bêdziemy siê kochaæ|w ka¿dym pokoju, nawet w twoim.
+{131859}{131932}/W ca³ej Anglii mamy deszczow¹ Wigiliê|WIGILIA
+{131934}{132032}/i przed nami pytanie,|/kto bêdzie na pierwszym miejscu w Radio One?
+{132034}{132132}/Blue czy niespodziewana,|/œwi¹teczna sensacja Billy'ego Mack'a?
+{132134}{132207}/Powinniœcie byli zgadn¹æ,|/chocia¿ trudno w to uwierzyæ.
+{132209}{132286}/To Billy Mack.
+{132334}{132382}- Jesteœ zwyciêzc¹!
+{132384}{132432}/- Czeœæ, Billy.|- Witam.
+{132434}{132532}/Jesteœmy na ¿ywo w ca³ym kraju.|/Jesteœ numerem jeden.
+{132534}{132607}/- Jak bêdziesz œwiêtowa³?|- Nie wiem.
+{132609}{132682}Albo zachowam siê,|jak prawdziwa rock'n'roll-owa ofiara
+{132684}{132732}i upijê siê ze swoim grubym menad¿erem...
+{132734}{132782}albo, kiedy siê roz³¹czê,
+{132784}{132907}zostanê zasypany zaproszeniami|na niezliczon¹ iloœæ znakomitych przyjêæ.
+{132909}{133007}/Miejmy nadziejê, ¿e to bêdzie to drugie.|/Oto nagranie. Numer jeden,
+{133009}{133108}/- "Œwiêta wszêdzie wokó³".|- O Jezu, tylko nie znów te brednie.
+{133184}{133257}Bill, to do ciebie, skarbie.
+{133259}{133307}Halo. Elton.
+{133309}{133394}O... oczywiœcie. Oczywiœcie.
+{133409}{133483}Przyœlij po mnie jeden z tych|¿enuj¹co wielkich samochodów i pojawiê siê.
+{133534}{133608}To bêd¹ bardzo udane Œwiêta.
+{133809}{133882}- W porz¹dku.|- Lepiej wejdê ju¿ do œrodka.
+{133884}{133983}- Moja mama... no wiesz.|- Tak, jasne. Robi siê trochê zimno.
+{134034}{134126}- Có¿, dobrej nocy.|- Dobranoc.
+{134334}{134398}No dobrze...
+{134734}{134782}Wszystko czego chcê na Œwiêta...
+{134784}{134879}to ty.
+{134934}{135007}Dziêkujê. Dobrze.
+{135009}{135076}Dobranoc.
+{135384}{135457}Zobaczcie kto przyjecha³,|to wujek Jamie.
+{135459}{135507}Czeœæ, wujku Jamie!
+{135509}{135628}Tak, doskonale.|Cudownie widzieæ was wszystkich.
+{135634}{135699}I...
+{135709}{135773}w³aœciwie to ju¿ wychodzê.
+{135778}{135846}Ale Jamie, kochanie.
+{135848}{135882}Przepraszam.
+{135884}{135990}Mê¿czyzna musi robiæ, co do niego nale¿y.
+{136009}{136057}Nienawidzê wujka Jamie'go!
+{136059}{136133}Nienawidzê wujka Jamie'go!|Nienawidzê wujka Jamie'go!
+{136409}{136508}Lotnisko Gatwick.|Najszybciej jak mo¿na.
+{136834}{136929}- Dobranoc, Sarah.|- Dobranoc, Karl.
+{136934}{136996}Ja...
+{137084}{137190}- Weso³ych Œwi¹t.|- Weso³ych Œwi¹t.
+{137634}{137707}Czeœæ skarbie, jak leci? Tak.
+{137709}{137783}Wszyscy œwiêtujecie?
+{138234}{138307}- Sam, czas na kolacjê.|- Nie jestem g³odny.
+{138309}{138382}Sam, zrobi³em kebab z kurczakiem.
+{138384}{138433}Spójrz na tabliczkê na drzwiach.
+{138485}{138529}POWIEDZIA£EM - NIE JESTEM G£ODNY
+{138534}{138593}W porz¹dku.
+{138734}{138783}Jest trochê za d³ugi.
+{138984}{139052}Otworzê.
+{139184}{139279}- O czeœæ.|- Kto tam?
+{139311}{139349}/Powiedz, ¿e kolêdnicy.
+{139359}{139428}Kolêdnicy!
+{139442}{139491}Daj im funciaka i nich spadaj¹.
+{139687}{139759}/Przy odrobinie szczêœcia, w przysz³ym roku
+{139784}{139879}/bêdê umawia³ siê z jedn¹ z tych dziewczyn...
+{140036}{140114}/Ale teraz, niech mi bêdzie wolno powiedzieæ,
+{140129}{140234}/bez specjalnej nadziei ani planów,
+{140254}{140364}/tylko dlatego, ¿e s¹ Œwiêta -
+{140369}{140484}/(a w Œwiêta mówi siê prawdê)
+{140489}{140549}/Dla mnie jesteœ idea³em.
+{140836}{140949}/A moje udrêczone serce bêdzie ciê kochaæ
+{140969}{141059}/dopóki nie zaczniesz wygl¹daæ tak...
+{141159}{141209}/Weso³ych Œwi¹t
+{141234}{141283}Weso³ych Œwi¹t.
+{142159}{142207}Wystarczy.
+{142209}{142268}Na razie wystarczy.
+{142434}{142557}Co ty do diab³a tu robisz?|Powinieneœ byæ u Eltona John'a.
+{142559}{142682}Có¿, by³em u niego minutê albo dwie|a potem dozna³em objawienia.
+{142684}{142732}- Serio?|- Tak.
+{142734}{142783}Dalej. WchodŸ.
+{142841}{142886}Wiêc co to za objawienie?
+{142888}{142932}To... to dotyczy³o Œwi¹t.
+{142934}{143003}Zda³eœ sobie sprawê,|¿e s¹ wszêdzie wokó³?
+{143011}{143145}Nie. Dotar³o do mnie, ¿e Œwiêta|powinno spêdzaæ siê z ludŸmi, których siê kocha.
+{143150}{143185}To prawda.
+{143187}{143332}I to do mnie dotar³o,|jak straszna prawda i zrz¹dzenie losu,
+{143334}{143382}¿e oto ja,
+{143384}{143432}cz³owiek po piêædziesi¹tce,
+{143434}{143507}nie zdaj¹c sobie z tego sprawy,|spêdzi³em wiêkszoœæ swego doros³ego ¿ycia
+{143509}{143607}z t³ustym pracownikiem.
+{143609}{143657}I, co mnie bardzo martwi,
+{143659}{143783}mo¿e siê okazaæ, ¿e ci ludzie,|których kocham, to w gruncie rzeczy...
+{143834}{143910}...ty.
+{143934}{143982}No, to jest niespodzianka.
+{143984}{144032}Tak.
+{144034}{144106}Dziesiêæ minut u Eltona John'a|i ju¿ jesteœ gejem?
+{144112}{144155}Nie, pos³uchaj.|Mówiê powa¿nie.
+{144157}{144282}Zostawi³em Elton'a i spor¹ liczbê|pó³nagich lasek z otwartymi ze zdziwienia ustami,
+{144284}{144399}aby byæ z tob¹ w Œwiêta.
+{144409}{144551}- Có¿, Bill...|- To straszny, straszny b³¹d, stary...
+{144634}{144761}ale wychodzi na to,|¿e jesteœ pieprzon¹ mi³oœci¹ mego ¿ycia.
+{144809}{144930}I prawdê mówi¹c,|pomimo wszystkich narzekañ...
+{144934}{145028}mieliœmy cudowne ¿ycie.
+{145109}{145170}Wiêc...
+{145184}{145249}Dziêkujê.
+{145284}{145382}To znaczy,|daj spokój, to zaszczyt.
+{145384}{145457}Czujê siê bardzo dumny.
+{145459}{145550}Daj spokój, nie b¹dŸ g³upkiem.
+{145759}{145871}Dawaj, ur¿nijmy siê i obejrzyjmy jakiœ pornos.
+{146309}{146382}/Szanowny panie, drogi Davidzie,
+{146384}{146457}/Weso³ych Œwi¹t i mam nadziejê,|/Szczêœliwego Nowego Roku.
+{146459}{146532}/Bardzo mi przykro,|/z powodu tego, co siê sta³o.
+{146534}{146607}/To by³ bardzo osobliwy czas|/i czujê siê jak pokazowa idiotka.
+{146609}{146657}/Zw³aszcza ¿e -
+{146659}{146707}/(jeœli nie powie siê tego w Œwiêta, to kiedy?) -
+{146709}{146828}/faktycznie jestem Twoja.|/Z pozdrowieniami. Twoja Natalie.
+{147284}{147332}Jack, potrzebujê samochodu.
+{147334}{147383}Natychmiast. Dziêkujê.
+{147659}{147736}Nie czekaj na mnie.
+{147809}{147885}Chcia³bym pojechaæ do Wandsworth,|do miejsca pod ciemn¹ gwiazd¹.
+{147887}{147960}Oczywiœcie, sir.
+{148184}{148257}Harris Street. Jaki numer, sir?
+{148259}{148358}Bo¿e, to najd³u¿sza ulica œwiata,|a ja nie mam zielonego pojêcia.
+{148559}{148607}Witam, czy tutaj mieszka Natalie?
+{148609}{148713}- Nie.|- W porz¹dku, dziêkujê. Przepraszam, ¿e przeszkadzam.
+{148716}{148757}Czy nie jest pan...
+{148759}{148832}Nie jest pan premierem?
+{148834}{148932}No tak. Faktycznie, jestem.|Weso³ych Œwi¹t.
+{148934}{149033}To teraz czêœæ obowi¹zków urzêdu.|Próbujê obejœæ wszystkich do Sylwestra.
+{149134}{149228}Witam. Czy tutaj mieszka Natalie?
+{149237}{149282}- Nie, nie mieszka.|- W porz¹dku.
+{149284}{149378}- Czy œpiewa pan kolêdy?|- Nie. Nie, nie œpiewam.
+{149384}{149482}- Prosimy, proszê pana, prosimy.|- Proszê.
+{149509}{149557}Có¿, no mo¿e móg³bym.
+{149559}{149620}Proszê.
+{149634}{149726}- No dobrze.
+{150159}{150232}Witam.|Przepraszam za najœcie.
+{150234}{150307}- Czy mieszka tutaj Natalie?|- Nie.
+{150309}{150389}Mieszka obok.
+{150409}{150480}Wspaniale.
+{150484}{150532}Nie jest pan tym,|kim myœlê, ¿e pan jest, prawda?
+{150534}{150607}Tak i przepraszam za wszystkie wpadki.
+{150609}{150682}Mój gabinet to kompletne œmiecie.|Mam nadziejê, ¿e w przysz³ym roku bêdzie lepiej.
+{150684}{150769}¯yczê Weso³ych Œwi¹t.
+{151084}{151182}Ach. Witam.
+{151184}{151232}Czy jest Natalie?
+{151234}{151332}Gdzie do cholery|jest moje pieprzone palto?
+{151334}{151416}- Och. Witam.|- Witam.
+{151434}{151589}To s¹ moi rodzice,|wujek Tony i ciocia Glynne.
+{151595}{151639}- Dzieñ dobry.|- Bardzo mi³o pañstwa poznaæ.
+{151641}{151707}A to... jest premier.
+{151709}{151757}Tak, to widzimy, kochanie.
+{151759}{151832}I niestety,|jesteœmy ju¿ bardzo spóŸnieni.
+{151834}{151907}Mamy szkolny koncert Œwi¹teczny,|rozumie pan, Davidzie.
+{151909}{152007}Po raz pierwszy przy³¹czy³y siê|wszystkie miejscowe szko³y, nawet St Basil...
+{152009}{152082}- Za du¿o szczegó³ów, mamo.|- Niewa¿ne, w czym mo¿emy pomóc, sir?
+{152084}{152202}Có¿, ja... tylko potrzebowa³bym Natalie...
+{152259}{152307}w pewnej sprawie urzêdowej.
+{152309}{152404}- Jasne, tak. Oczywiœcie.
+{152409}{152457}W porz¹dku...
+{152459}{152532}Có¿, mo¿e mog³abyœ|do³¹czyæ póŸniej, P¹czuszku.
+{152534}{152557}To znaczy, Natalie.
+{152559}{152632}Nie chcê,|aby pañstwo spóŸnili siê na koncert.
+{152634}{152707}- Nie, to naprawdê nic takiego.|- Keith by³by bardzo rozczarowany.
+{152709}{152807}- Nie, to naprawdê nieistotne.|- Kostium oœmiornicy zaj¹³ mi miesi¹ce.
+{152809}{152858}Osiem to mnóstwo nóg, Davidzie.
+{152959}{153007}Mo¿e pañstwa podwiozê,
+{153009}{153160}a wtedy porozmawiamy|o tej sprawie urzêdowej w samochodzie.
+{153184}{153207}Dobrze.
+{153209}{153282}- Cudownie.|- Dziêkujê.
+{153284}{153367}Trzymaæ siê mocno.
+{153509}{153557}- Jak to daleko?|- Zaraz za rogiem.
+{153559}{153642}Jasne. Wiêc...
+{153684}{153769}Chcia³em tylko...
+{153784}{153832}podziêkowaæ ci za kartkê œwi¹teczn¹.
+{153834}{153882}Bardzo proszê.
+{153884}{153932}Bardzo mi przykro z powodu tamtego dnia.
+{153934}{154007}Wesz³am do œrodka,|on podszed³ do mnie ukradkiem i zrobi³o siê gor¹co,
+{154009}{154107}a on jest prezydentem Stanów Zjednoczonych|i nic nie zasz³o, dajê s³owo.
+{154109}{154182}Po prostu poczu³am siê|jak idiotka, bo...
+{154184}{154257}W³aœciwie to myœlê ca³y czas o tobie.
+{154259}{154357}- I myœlê, ¿e jesteœ mê¿czyzn¹, którego naprawdê...|- Ju¿ jesteœmy.
+{154359}{154503}...kocham.|- To naprawdê by³o za rogiem.
+{154809}{154883}Pos³uchaj...
+{154909}{155007}Chyba lepiej bêdzie,|jeœli nie wejdê, rozumiesz?
+{155009}{155082}Nikt nie chce,|¿eby jakiœ polityk ukrad³ dzieciom oklaski.
+{155084}{155182}Nie, chodŸ proszê.|Bêdzie wspaniale.
+{155184}{155257}Nie, lepiej... lepiej nie.
+{155259}{155457}Ale bêdzie mi bardzo przykro|odje¿d¿aæ od ciebie.
+{155459}{155545}Daj mi tylko chwilê.
+{155859}{155933}John by³ bardzo tajemniczy.|Gdzie wy siê poznaliœcie?
+{156084}{156138}Nie!
+{156178}{156239}PORT LOTNICZY - MARSYLIA PROWANSJA
+{156884}{156982}WchodŸ.|Mo¿emy ogl¹daæ zza kulis.
+{156984}{157075}Dobrze.|Terry, to nie potrwa d³ugo.
+{157109}{157182}Pos³uchaj,|to musi byæ bardzo dyskretna wizyta, dobrze?
+{157184}{157329}Nie martw siê. To by³a moja szko³a.|Znam wszystkie zakamarki. ChodŸ.
+{157373}{157432}Owce s¹ ju¿ gotowe,|a ty nawet nie jesteœ...
+{157434}{157507}David!
+{157509}{157582}Jak siê masz?
+{157584}{157682}Czeœæ dzieciaki.|Hej, hej, hej. W porz¹dku?
+{157684}{157732}Co ty u diab³a tu robisz?
+{157734}{157807}- Có¿, no wiesz...|- Zawsze mówiliœmy sekretarce twojej sekretarki,
+{157809}{157907}¿e chodzimy na takie wystêpy,|ale nigdy nie pomyœla³am, ¿e siê pojawisz.
+{157909}{157957}Pomyœla³em, ¿e czas to zmieniæ.
+{157959}{158057}Nie chcê, ¿eby ktoœ mnie widzia³,|wiêc mam zamiar gdzieœ siê ukryæ.
+{158059}{158107}Powodzenia, Daisy,|powodzenia, Bernie.
+{158109}{158207}Nigdy bardziej siê nie cieszy³am,|widz¹c swojego g³upiego brata.
+{158209}{158282}- Dziêkujê.|- W porz¹dku.
+{158284}{158357}Nie zosta³yœmy sobie przedstawione.
+{158359}{158432}Racja.|Wiêc to jest Gavin.
+{158434}{158482}- Witaj, Gavin.|- Mój ochroniarz.
+{158484}{158532}A to Natalie, która jest moj¹...
+{158534}{158607}- która jest moim szefem od wy¿ywienia.
+{158609}{158657}- Czeœæ.|- Szef od wy¿ywienia.
+{158659}{158707}Pilnuj go,|niech trzyma rêce przy sobie.
+{158709}{158757}20 lat temu by³abyœ w jego typie.
+{158759}{158882}Bêdê bardzo ostro¿na.|Proszê niczego nie próbowaæ, korzystaj¹c ze Œwi¹t.
+{158884}{158932}- Mówiê powa¿nie.
+{158934}{158982}ChodŸmy. Zaczyna siê. Szybko.
+{158984}{159057}- Zobaczymy siê po wystêpie, tak?|- Prawdopodobnie.
+{159059}{159132}- Dziêkujê, premierze.|- Drobiazg.
+{159134}{159183}- ChodŸ.|- W porz¹dku.
+{159984}{160082}Szko³a Hillier|chcia³aby teraz zaprezentowaæ wystêp œwi¹teczny.
+{160084}{160157}Œpiew solowy - dziesiêcioletnia Joanna Anderson,
+{160159}{160207}Chórki koordynowane przez jej matkê,
+{160209}{160282}wspania³¹ pani¹ Jean Anderson.
+{160284}{160332}Niektórzy z nas zdecydowali siê im pomagaæ
+{160334}{160443}i z tego powodu prosimy o wybaczenie.
+{160459}{160508}Dziêkujê.
+{164534}{164582}Wiêc nie tak ustronnie, jak s¹dziliœmy.
+{164584}{164677}- Co teraz zrobimy?|- Uœmiechnij siê.
+{164684}{164751}Lekki uk³on.
+{164809}{164896}I machamy.
+{165184}{165257}Oczywiœcie nie mia³am pojêcie,|mo¿ecie sobie wyobraziæ?
+{165259}{165307}Zobaczymy siê póŸniej dobrze?
+{165309}{165394}Odezwê siê. Na razie.
+{165409}{165507}Powiedz mi,|co zrobi³byœ bêd¹c w mojej sytuacji?
+{165509}{165557}O jakiej sytuacji mówimy?
+{165559}{165657}WyobraŸ sobie,|¿e twój m¹¿ kupi³ z³oty naszyjnik
+{165659}{165732}i na Œwiêta da³ go komuœ innemu.
+{165734}{165807}- Karen...|- Czy czeka³byœ, ¿eby siê dowiedzieæ...
+{165809}{165857}- Dobranoc.|- Dobranoc kochanie. Szczêœliwych Œwi¹t.
+{165859}{165932}Czy czeka³byœ,|¿eby dowiedzieæ siê, czy to tylko naszyjnik,
+{165934}{166007}czy mo¿e to seks i naszyjnik,
+{166009}{166128}albo najgorsze ze wszystkich,|naszyjnik i mi³oœæ?
+{166134}{166257}Zosta³byœ? Wiedz¹c,|¿e ¿ycie zawsze by³oby ju¿ gorsze?
+{166259}{166366}- Czy rzuci³byœ to i uciek³byœ?|- O Bo¿e.
+{166434}{166507}Tak Ÿle zrobi³em.
+{166509}{166557}Klasyczny g³upiec.
+{166559}{166632}Tak, ale przy okazji,|zrobi³eœ g³upca tak¿e ze mnie.
+{166634}{166746}Sprawi³eœ, ¿e ¿ycie,|które wiodê, tak¿e sta³o siê g³upie.
+{166759}{166832}Kochanie. Kochani!
+{166834}{166907}Byliœcie cudowni.
+{166909}{166982}Mój ma³y homar, by³aœ taka...
+{166984}{167057}Jak to siê nazywa?
+{167059}{167107}Pomarañczowa.
+{167109}{167207}ChodŸcie, przygotowa³am w domu poczêstunek.|Tata przyjdzie.
+{167209}{167327}Sammy! Fantastyczny wystêp!|Klasyczna perkusja, synu.
+{167334}{167432}- Dziêki. Chocia¿ plan nie wypali³.|- Wiêc jej powiedz.
+{167434}{167482}- Co mam jej powiedzieæ?|- ¯e j¹ kochasz.
+{167484}{167532}Nie ma mowy.|I tak wylatuj¹ wieczorem.
+{167534}{167707}Nawet lepiej. Sam, nie masz nic do stracenia,|zawsze bêdziesz ¿a³owa³, jeœli tego nie zrobisz.
+{167709}{167757}Nigdy nie doœæ mówi³em o tym twojej matce.
+{167759}{167907}Powinienem by³ mówiæ jej to codziennie,|bo codziennie by³a idealna.
+{167909}{168048}Ogl¹da³eœ filmy, dzieciaku.|Nie jest po wszystkim, zanim siê nie skoñczy.
+{168059}{168157}Dobrze, tato. Zróbmy to.
+{168159}{168207}Tak.
+{168209}{168306}- Daj mi tylko chwilê.|- Tak.
+{168309}{168382}- Przepraszam.|- Przepraszam.
+{168384}{168432}Nic siê nie sta³o.
+{168434}{168507}- Moja wina.|- Nie, nie, naprawdê nie.
+{168509}{168582}Pan jest tat¹ Sama, prawda?
+{168584}{168688}Tak. W³aœciwie ojczymem.
+{168699}{168732}- Daniel.|- Jestem Carol.
+{168734}{168782}Carol.
+{168784}{168896}- Ju¿ jestem. ChodŸmy.|- Tak.
+{168909}{168982}Mam nadziejê,|¿e znów siê spotkamy, Karen.
+{168984}{169057}Carol.
+{169059}{169165}- Ja ju¿ o to zadbam.|- Tak? Dobrze.
+{169359}{169407}- Powiedz jej.|- Co?
+{169409}{169516}- No wiesz...|- Nie b¹dŸ takim dupkiem.
+{169559}{169607}- Spójrz, jest tam.|- Gdzie?
+{169609}{169676}Tam.
+{169709}{169770}O nie.
+{169784}{169914}W porz¹dku, pojedziemy na lotnisko.|Znam skrót.
+{170234}{170282}Dobry wieczór.
+{170284}{170357}- Senhor Barros?|- Sim.
+{170359}{170432}Jestem tu, ¿eby poprosiæ
+{170434}{170482}pañsk¹ córkê o rêce.
+{170484}{170557}Chcesz siê o¿eniæ z moj¹ córk¹?
+{170559}{170582}Tak.
+{170584}{170632}ChodŸ tutaj,
+{170634}{170707}W drzwiach stoi jakiœ facet.
+{170709}{170757}Chce siê z tob¹ o¿eniæ.
+{170759}{170802}Ale ja go nigdy przedtem nie widzia³am.
+{170804}{170832}A czy to wa¿ne?
+{170834}{170882}Zamierzasz sprzedaæ mnie nieznajomemu?
+{170884}{170957}Sprzedaæ?|Kto powiedzia³ o sprzeda¿y? Ja mu zap³acê.
+{170959}{171082}Proszê wybaczyæ.|Mia³em na myœli inn¹ córkê - Aureliê.
+{171084}{171157}Tu jej nie ma - jest w pracy.|Zaprowadzê ciê.
+{171159}{171207}Ty zostajesz tutaj.
+{171209}{171292}Tak jakbym mog³a. G³upi!
+{171334}{171477}Ojciec ma zamiar|sprzedaæ Aureliê temu Anglikowi jak niewolnicê.
+{171559}{171626}Czekaj. Czekaj.
+{171684}{171745}No nie.
+{171759}{171813}Lepiej siê nie zgadzaj, ojcze.
+{171818}{171918}Zamilcz, Miss P¹czków 2003.
+{171984}{172082}- W³aœciwie, to my nie lecimy.|- Nie mo¿ecie tam przejœæ bez karty pok³adowej.
+{172084}{172224}Nawet nie pozwoli pan temu ch³opcu|po¿egnaæ siê z mi³oœci¹ jego ¿ycia?
+{172234}{172289}Nie.
+{172334}{172407}- Przykro mi, Sam.|- Karta pok³adowa, sir?
+{172409}{172482}Chwileczkê, wiem, ¿e j¹ mam.|Mo¿e pan potrzymaæ?
+{172484}{172532}- Chyba ¿e...|- Co?
+{172534}{172607}- Chcesz zaryzykowaæ?|- Proszê to wzi¹æ.
+{172609}{172682}- S¹dzisz, ¿e powinienem?|- Tak.
+{172684}{172752}- W porz¹dku.|- Tak!
+{172759}{172895}Musia³em j¹ zostawiæ tam,|gdzie pi³em kawê. Przepraszam.
+{174609}{174667}Najwidoczniej on zamierza zabiæ Aureliê.
+{174669}{174717}Ekstra!
+{175534}{175595}Joanna.
+{175609}{175665}Sam?
+{175734}{175857}- Myœla³em, ¿e nie wiesz jak mi na imiê.|- Jasne, ¿e wiem.
+{175859}{175957}O Jezu. Muszê uciekaæ.
+{177184}{177257}- Gdzie jest Aurelia?|- A dlaczego mam ci powiedzieæ?
+{177259}{177307}Ten cz³owiek chce siê z ni¹ o¿eniæ.
+{177309}{177424}Nie mo¿e tego zrobiæ|- to nasza najlepsza kelnerka.
+{177834}{177907}Boa noite, Aurelia.
+{177909}{177985}Boa noite, Jamie.
+{178334}{178407}Piêkna Aurelio...
+{178409}{178524}Przyby³em tu z zamiarem zapytania ciê...
+{178534}{178607}czy za mnie œlubisz.
+{178609}{178746}Wiem, ¿e ja wydawaæ siê szalony,|bo ledwie ciê znaæ,
+{178759}{178871}ale czasami rzeczy s¹ takie oczywiste,
+{178959}{179059}¿e nie potrzeba ich dowodziæ.
+{179084}{179229}Ja zamieszkam ciebie,|albo ty zamieszkasz mnie w Anglii.
+{179234}{179307}Zdecydowanie jedŸ do Anglii, dziewczyno.
+{179309}{179407}Spotkasz ksiêcia Williama -|mo¿esz go poœlubiæ zamiast niego.
+{179409}{179552}Oczywiœcie ja nie oczekiwaæ,|¿e jesteœ tak samo szalona jak ja,
+{179559}{179671}i oczywiœcie przewidywaæ,|¿e powiesz nie....
+{179709}{179931}ale poniewa¿ s¹ Œwiêta,|chcia³em chocia¿... sprawdziæ.
+{180009}{180113}O Bo¿e - zgódŸ siê,|ty chuda idiotko.
+{180159}{180232}Dziêkujê.
+{180234}{180311}Bêdzie mi³o.
+{180359}{180444}Moja odpowiedŸ brzmi "tak".
+{180459}{180507}Proste pytanie.
+{180509}{180582}Co powiedzia³aœ?
+{180584}{180608}"Tak", oczywiœcie.
+{180659}{180718}Brawo!
+{181334}{181407}Uczy³aœ siê angielskiego?
+{181409}{181480}Tak na wszelkie wypadki.
+{182266}{182314}MIESI¥C PÓNIEJ
+{182434}{182457}Witaj, Daisy.
+{182459}{182533}- Ta ma na imiê Greta.|- Witaj, Greta.
+{182609}{182707}Oto ona. To Aurelia.|To jest Juliet. To Peter.
+{182709}{182782}- Mark, nie zauwa¿y³em ciê.|- Nie chcia³em siê narzucaæ.
+{182784}{182832}Wszyscy przyjaciele Jamie'go|s¹ tacy przystojni.
+{182834}{182907}Nigdy mi tego nie mówi³.
+{182909}{182982}Pomyœla³am,|¿e mo¿e dokona³am z³ego wyboru.
+{182984}{183028}Wybra³am nie tego Anglika.
+{183040}{183082}Ona nie potrafi dobrze mówiæ po angielsku.
+{183084}{183160}Tato! Tato!
+{183209}{183232}O Bo¿e.
+{183234}{183307}- Przywioz³eœ nam jakieœ prezenty?|- Prawdê mówi¹c, przywioz³em.
+{183309}{183391}Dziêki tato.
+{183434}{183538}- Co u ciebie?|- Œwietnie. Œwietnie.
+{183559}{183607}Cieszê siê, ¿e wróci³eœ.
+{183609}{183680}Jedziemy. Do domu.
+{183734}{183804}Jest.
+{183834}{183905}- Czeœæ.|- Witaj.
+{183909}{184036}- Powiniem by³ j¹ poca³owaæ.|- Nie, tak jest dobrze.
+{184059}{184132}- W porz¹dku?|- Hej. Co wy tutaj robicie?
+{184134}{184207}- Wreszcie mo¿e mi na coœ pozwoli.|- Nieprzyzwoity.
+{184209}{184283}- Musimy lecieæ.|- Na razie.
+{184449}{184507}To jest Harriet.
+{184509}{184607}- Czeœæ. Naprawdê mi³o ciê poznaæ.|- Witaj, Harriet.
+{184609}{184732}Mam nadziejê, ¿e nie masz nic przeciw temu,|przyjecha³am razem z siostr¹.
+{184734}{184837}To jest Carla.|Jest prawdziwie przyjacielska.
+{184859}{184945}Witaj, ty musisz byæ Tony.
+{184959}{185008}S³ysza³am, ¿e jesteœcie fantastyczni.
+{185309}{185383}- Bo¿e, ile ty wa¿ysz.|- Przymknij siê.
+{185791}{185991}T³umaczy³a: zijok
+{186207}{186301}www.NapiProjekt.pl - nowa jakoœæ napisów.|Napisy zosta³y specjalnie dopasowane do Twojej wersji filmu.
