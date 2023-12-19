@@ -1,5 +1,4 @@
 ﻿using FluentValidation;
-using System.ComponentModel.DataAnnotations;
 
 namespace CityInfo.API.Models
 {
@@ -30,7 +29,7 @@ namespace CityInfo.API.Models
     {
         public POIValidator() 
         {
-            RuleFor(poi => poi.Name).NotNull().Length(1, 50);
+            RuleFor(poi => poi.Name).NotEmpty().Length(1, 50);
             RuleFor(poi => poi.Description).MaximumLength(200);
         }
     }
@@ -39,7 +38,7 @@ namespace CityInfo.API.Models
     {
         public POIUpdatingValidator()
         {
-            RuleFor(poi => poi.Name).NotNull().Length(1, 50);
+            RuleFor(poi => poi.Name).NotEmpty().Length(1, 50);
             RuleFor(poi => poi.Description).MaximumLength(200);
         }
     }

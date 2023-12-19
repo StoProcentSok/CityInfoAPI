@@ -4,9 +4,6 @@ using Microsoft.AspNetCore.StaticFiles;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
-
 
 builder.Services.AddControllers(options =>
 {
@@ -20,8 +17,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<FileExtensionContentTypeProvider>();
 
-builder.Services.AddScoped<IValidator<PointOfInterestCreationDto>, POIValidator>();
-builder.Services.AddScoped<IValidator<PointOfInterestUpdatingDTO>, POIUpdatingValidator>();
+
+builder.Services.AddValidatorsFromAssemblyContaining<PointOfInterestCreationDto>();
+//builder.Services.AddScoped<IValidator<PointOfInterestCreationDto>, POIValidator>();
+//builder.Services.AddScoped<IValidator<PointOfInterestUpdatingDTO>, POIUpdatingValidator>();
 
 var app = builder.Build();
 
@@ -43,6 +42,5 @@ app.UseEndpoints(endpoints =>
     endpoints.MapControllers();
 });
 
-//app.MapControllers();
 
 app.Run();
