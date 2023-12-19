@@ -34,4 +34,13 @@ namespace CityInfo.API.Models
             RuleFor(poi => poi.Description).MaximumLength(200);
         }
     }
+
+    public class POIUpdatingValidator : AbstractValidator<PointOfInterestUpdatingDTO>
+    {
+        public POIUpdatingValidator()
+        {
+            RuleFor(poi => poi.Name).NotNull().Length(1, 50);
+            RuleFor(poi => poi.Description).MaximumLength(200);
+        }
+    }
 }

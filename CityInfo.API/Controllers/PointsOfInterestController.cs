@@ -2,6 +2,7 @@
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using FluentValidation.Results;
+using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CityInfo.API.Controllers
@@ -10,10 +11,15 @@ namespace CityInfo.API.Controllers
     [ApiController]
     public class PointsOfInterestController : ControllerBase
     {
-        private IValidator<PointOfInterestCreationDto> _validator;
-        public PointsOfInterestController(IValidator<PointOfInterestCreationDto> validator)
+        private IValidator<PointOfInterestCreationDto> _creationValidator;
+        private IValidator<PointOfInterestUpdatingDTO> _updatingValidator;
+        public PointsOfInterestController(
+            IValidator<PointOfInterestCreationDto> validator, 
+            IValidator<PointOfInterestUpdatingDTO> updatingValidator)
         {
-            this._validator = validator;
+            this._creationValidator = validator;
+            this._updatingValidator = updatingValidator;
+
         }
 
         [HttpGet]
@@ -52,7 +58,7 @@ namespace CityInfo.API.Controllers
             [FromBody] PointOfInterestCreationDto pointOfInterestCreationDto)
         {
 
-            ValidationResult validationResult = _validator.Validate(pointOfInterestCreationDto);
+            ValidationResult validationResult = _creationValidator.Validate(pointOfInterestCreationDto);
 
             if (!validationResult.IsValid)
             {
@@ -97,9 +103,50 @@ namespace CityInfo.API.Controllers
             }
 
             poi.Name = updateDTO.Name;
-            poi.Description = updateDTO.Description ?? poi.Description;
+            poi.Description = updateDTO.Description; //?? poi.Description; commennted out for JsonPatch implementation
 
             return NoContent();
+        }
+        [HttpPatch("{poiId}")]
+        public ActionResult PartiallyUpdatePOI(int cityId, int poiId,
+            JsonPatchDocument<PointOfInterestUpdatingDTO> patchDocument)
+        {
+            var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);
+            if (city == null)
+            {
+                return NotFound();
+            }
+
+            var poiFromStore = city.PointsOfInterest.FirstOrDefault(poi => poi.Id == poiId);
+            if (poiFromStore == null)
+            {
+                return NotFound();
+            }
+
+            var poiToPatch = new PointOfInterestUpdatingDTO()
+            {
+                Name = poiFromStore.Name,
+                Description = poiFromStore.Description,
+            };
+
+            patchDocument.ApplyTo(poiToPatch, this.ModelState);
+
+            var validationRes = _updatingValidator.Validate(poiToPatch);
+            if (!validationRes.IsValid)
+            {
+                validationRes.AddToModelState(this.ModelState);
+            }
+
+            if (!this.ModelState.IsValid)
+            {
+                return BadRequest(this.ModelState);
+            }
+
+            poiFromStore.Name = poiToPatch.Name;
+            poiFromStore.Description = poiToPatch.Description;
+
+            return NoContent();
+
         }
     }
 }

@@ -21,6 +21,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<FileExtensionContentTypeProvider>();
 
 builder.Services.AddScoped<IValidator<PointOfInterestCreationDto>, POIValidator>();
+builder.Services.AddScoped<IValidator<PointOfInterestUpdatingDTO>, POIUpdatingValidator>();
 
 var app = builder.Build();
 
