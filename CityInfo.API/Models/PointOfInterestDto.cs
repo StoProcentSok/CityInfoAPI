@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using FluentValidation;
+using System.ComponentModel.DataAnnotations;
 
 namespace CityInfo.API.Models
 {
@@ -11,11 +12,20 @@ namespace CityInfo.API.Models
 
     public class PointOfInterestCreationDto
     {
-        [Required(ErrorMessage = "Please provide name for POI")]
-        [MaxLength(50)]
+        //[Required(ErrorMessage = "Please provide name for POI")]
+        //[MaxLength(50)]
         public string Name { get; set; } = string.Empty;
         
-        [MaxLength(200)]
+        //[MaxLength(200)]
         public string? Description { get; set; }
+    }
+
+    public class POIValidator  : AbstractValidator<PointOfInterestCreationDto>
+    {
+        public POIValidator() 
+        {
+            RuleFor(poi => poi.Name).NotNull().Length(1, 50);
+            RuleFor(poi => poi.Description).MaximumLength(200);
+        }
     }
 }
