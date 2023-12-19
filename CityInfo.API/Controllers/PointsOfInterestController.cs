@@ -1,9 +1,8 @@
 ﻿using CityInfo.API.Models;
 using FluentValidation;
 using FluentValidation.AspNetCore;
-using Microsoft.AspNetCore.Http;
+using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
-using System.ComponentModel.DataAnnotations;
 
 namespace CityInfo.API.Controllers
 {
@@ -49,11 +48,11 @@ namespace CityInfo.API.Controllers
         }
 
         [HttpPost]
-        public ActionResult<PointOfInterestDto> CreatePointOfInterest(int cityId, 
-            [FromBody]PointOfInterestCreationDto pointOfInterestCreationDto)
+        public ActionResult<PointOfInterestDto> CreatePointOfInterest(int cityId,
+            [FromBody] PointOfInterestCreationDto pointOfInterestCreationDto)
         {
 
-            FluentValidation.Results.ValidationResult  validationResult = _validator.Validate(pointOfInterestCreationDto);
+            ValidationResult validationResult = _validator.Validate(pointOfInterestCreationDto);
 
             if (!validationResult.IsValid)
             {
@@ -80,6 +79,27 @@ namespace CityInfo.API.Controllers
             city.PointsOfInterest.Add(newPoi);
 
             return CreatedAtRoute("GetPointOfInterest", new { cityId = cityId, poiId = newPoi.Id }, newPoi);
+        }
+
+        [HttpPut("{poiToUpdateId}")]
+        public ActionResult<PointOfInterestDto> UpdatePointOfInterest(int cityId, int poiToUpdateId, PointOfInterestUpdatingDTO updateDTO)
+        {
+            var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);
+            if (city == null)
+            {
+                return NotFound();
+            }
+
+            var poi = city.PointsOfInterest.FirstOrDefault(poi => poi.Id == poiToUpdateId);
+            if (poi == null)
+            {
+                return NotFound();
+            }
+
+            poi.Name = updateDTO.Name;
+            poi.Description = updateDTO.Description ?? poi.Description;
+
+            return NoContent();
         }
     }
 }

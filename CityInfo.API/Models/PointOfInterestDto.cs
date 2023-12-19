@@ -20,7 +20,13 @@ namespace CityInfo.API.Models
         public string? Description { get; set; }
     }
 
-    public class POIValidator  : AbstractValidator<PointOfInterestCreationDto>
+    public class PointOfInterestUpdatingDTO
+    {
+        public string Name { get; set; } = string.Empty;
+        public string? Description { get; set; }
+    }
+
+    public class POIValidator : AbstractValidator<PointOfInterestCreationDto>
     {
         public POIValidator() 
         {
