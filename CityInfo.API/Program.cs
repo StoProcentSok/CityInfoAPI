@@ -25,7 +25,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<FileExtensionContentTypeProvider>();
 
-builder.Services.AddTransient<LocalMailingService>();
+#if DEBUG
+builder.Services.AddTransient<IMailingService, LocalMailingService>();
+#else
+builder.Services.AddTransient<IMailingService, CloudMailingService>();
+#endif
 
 
 builder.Services.AddValidatorsFromAssemblyContaining<PointOfInterestCreationDto>();

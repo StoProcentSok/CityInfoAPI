@@ -15,13 +15,13 @@ namespace CityInfo.API.Controllers
         private IValidator<PointOfInterestCreationDto> _creationValidator;
         private IValidator<PointOfInterestUpdatingDTO> _updatingValidator;
         private readonly ILogger<PointsOfInterestController> _logger;
-        private readonly LocalMailingService _mailingService;
+        private readonly IMailingService _mailingService;
 
         public PointsOfInterestController(
             IValidator<PointOfInterestCreationDto> validator, 
             IValidator<PointOfInterestUpdatingDTO> updatingValidator,
             ILogger<PointsOfInterestController> logger,
-            LocalMailingService mailingService)
+            IMailingService mailingService)
         {
             this._creationValidator = validator ?? throw new ArgumentNullException(nameof(validator));
             this._updatingValidator = updatingValidator ?? throw new ArgumentNullException(nameof(updatingValidator));
