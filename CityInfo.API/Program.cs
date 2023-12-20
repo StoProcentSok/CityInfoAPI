@@ -1,4 +1,5 @@
 using CityInfo.API.Models;
+using CityInfo.API.Services;
 using FluentValidation;
 using Microsoft.AspNetCore.StaticFiles;
 using Serilog;
@@ -24,10 +25,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<FileExtensionContentTypeProvider>();
 
+builder.Services.AddTransient<LocalMailingService>();
+
 
 builder.Services.AddValidatorsFromAssemblyContaining<PointOfInterestCreationDto>();
-//builder.Services.AddScoped<IValidator<PointOfInterestCreationDto>, POIValidator>();
-//builder.Services.AddScoped<IValidator<PointOfInterestUpdatingDTO>, POIUpdatingValidator>();
 
 var app = builder.Build();
 
@@ -48,6 +49,5 @@ app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllers();
 });
-
 
 app.Run();

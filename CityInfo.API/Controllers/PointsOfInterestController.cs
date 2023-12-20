@@ -1,4 +1,5 @@
 ﻿using CityInfo.API.Models;
+using CityInfo.API.Services;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using FluentValidation.Results;
@@ -14,31 +15,34 @@ namespace CityInfo.API.Controllers
         private IValidator<PointOfInterestCreationDto> _creationValidator;
         private IValidator<PointOfInterestUpdatingDTO> _updatingValidator;
         private readonly ILogger<PointsOfInterestController> _logger;
+        private readonly LocalMailingService _mailingService;
 
         public PointsOfInterestController(
             IValidator<PointOfInterestCreationDto> validator, 
             IValidator<PointOfInterestUpdatingDTO> updatingValidator,
-            ILogger<PointsOfInterestController> logger)
+            ILogger<PointsOfInterestController> logger,
+            LocalMailingService mailingService)
         {
             this._creationValidator = validator ?? throw new ArgumentNullException(nameof(validator));
             this._updatingValidator = updatingValidator ?? throw new ArgumentNullException(nameof(updatingValidator));
             this._logger = logger ?? throw new ArgumentNullException(nameof(logger));
+            this._mailingService = mailingService ?? throw new ArgumentNullException(nameof(mailingService));
         }
 
         [HttpGet]
         public ActionResult<IEnumerable<PointOfInterestDto>> GetPointsOfInterests(int cityId)
         {
 
-            var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);
+                var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);
 
-            if (city == null)
-            {
-                _logger.LogInformation($"City with id {cityId} was not found when requesting POIs.");
-                return NotFound();
+                if (city == null)
+                {
+                    _logger.LogInformation($"City with id {cityId} was not found when requesting POIs.");
+                    return NotFound();
+                }
+
+                return Ok(city.PointsOfInterest);
             }
-
-            return Ok(city.PointsOfInterest);
-        }
 
         [HttpGet("{poiId}", Name = "GetPointOfInterest")]
         public ActionResult<PointOfInterestDto> GetPointOfInterest(int cityId, int poiId)
@@ -170,6 +174,7 @@ namespace CityInfo.API.Controllers
             }
 
             city.PointsOfInterest.Remove(poiFromStore);
+            _mailingService.sendMail("POI Deleted", $"Deleted POI with id {poiId}, from City with id {cityId}");
 
             return NoContent();
         }
