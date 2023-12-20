@@ -28,26 +28,16 @@ namespace CityInfo.API.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<PointOfInterestDto>> GetPointsOfInterests(int cityId)
         {
-            try
+
+            var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);
+
+            if (city == null)
             {
-                throw new Exception("Sample excpetion");
-
-                var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);
-
-                if (city == null)
-                {
-                    _logger.LogInformation($"City with id {cityId} was not found when requesting POIs.");
-                    return NotFound();
-                }
-
-                return Ok(city.PointsOfInterest);
+                _logger.LogInformation($"City with id {cityId} was not found when requesting POIs.");
+                return NotFound();
             }
-            catch(Exception ex)
-            {
-                _logger.LogCritical($"Exception while getting POIs of city with id {cityId}", ex.Message);
-                return StatusCode(500, "Proplem happened while handling request");
-                
-            }
+
+            return Ok(city.PointsOfInterest);
         }
 
         [HttpGet("{poiId}", Name = "GetPointOfInterest")]
