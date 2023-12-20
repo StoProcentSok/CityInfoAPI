@@ -13,13 +13,16 @@ namespace CityInfo.API.Controllers
     {
         private IValidator<PointOfInterestCreationDto> _creationValidator;
         private IValidator<PointOfInterestUpdatingDTO> _updatingValidator;
+        private readonly ILogger<PointsOfInterestController> _logger;
+
         public PointsOfInterestController(
             IValidator<PointOfInterestCreationDto> validator, 
-            IValidator<PointOfInterestUpdatingDTO> updatingValidator)
+            IValidator<PointOfInterestUpdatingDTO> updatingValidator,
+            ILogger<PointsOfInterestController> logger)
         {
-            this._creationValidator = validator;
-            this._updatingValidator = updatingValidator;
-
+            this._creationValidator = validator ?? throw new ArgumentNullException(nameof(validator));
+            this._updatingValidator = updatingValidator ?? throw new ArgumentNullException(nameof(updatingValidator));
+            this._logger = logger ?? throw new ArgumentNullException(nameof(logger));
         }
 
         [HttpGet]
@@ -29,6 +32,7 @@ namespace CityInfo.API.Controllers
 
             if (city == null)
             {
+                _logger.LogInformation($"City with id {cityId} was not found when requesting POIs.");
                 return NotFound();
             }
 
