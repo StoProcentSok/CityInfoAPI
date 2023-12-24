@@ -1,4 +1,5 @@
 using CityInfo.API;
+using CityInfo.API.DbContexts;
 using CityInfo.API.Models;
 using CityInfo.API.Services;
 using FluentValidation;
@@ -33,6 +34,7 @@ builder.Services.AddTransient<IMailingService, CloudMailingService>();
 #endif
 
 builder.Services.AddSingleton<CitiesDataStore>();
+builder.Services.AddDbContext<CityInfoContext>();
 
 builder.Services.AddValidatorsFromAssemblyContaining<PointOfInterestCreationDto>();
 
