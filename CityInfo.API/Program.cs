@@ -35,7 +35,8 @@ builder.Services.AddTransient<IMailingService, CloudMailingService>();
 #endif
 
 builder.Services.AddSingleton<CitiesDataStore>();
-builder.Services.AddDbContext<CityInfoContext>(dbContextOptions => dbContextOptions.UseSqlite("Data Source=CityInfo.db"));
+builder.Services.AddDbContext<CityInfoContext>(dbContextOptions => dbContextOptions.UseSqlite(
+    builder.Configuration["ConnectionStrings:CityInfoDbConnectionString"]));
 
 builder.Services.AddValidatorsFromAssemblyContaining<PointOfInterestCreationDto>();
 
