@@ -8,10 +8,17 @@ namespace CityInfo.API.DbContexts
         public DbSet<City> Cities { get; set; } = null!;
         public DbSet<PointOfInterest> PointsOfInterests { get; set;} = null!;
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+
+        public CityInfoContext(DbContextOptions<CityInfoContext> options) 
+            : base(options)
         {
-            optionsBuilder.UseSqlite("connectionstring");
-            base.OnConfiguring(optionsBuilder);
+            
         }
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlite("connectionstring");
+        //    base.OnConfiguring(optionsBuilder);
+        //}
     }
 }

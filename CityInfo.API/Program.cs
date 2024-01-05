@@ -4,6 +4,7 @@ using CityInfo.API.Models;
 using CityInfo.API.Services;
 using FluentValidation;
 using Microsoft.AspNetCore.StaticFiles;
+using Microsoft.EntityFrameworkCore;
 using Serilog;
 
 Log.Logger = new LoggerConfiguration()
@@ -34,7 +35,7 @@ builder.Services.AddTransient<IMailingService, CloudMailingService>();
 #endif
 
 builder.Services.AddSingleton<CitiesDataStore>();
-builder.Services.AddDbContext<CityInfoContext>();
+builder.Services.AddDbContext<CityInfoContext>(dbContextOptions => dbContextOptions.UseSqlite("Data Source=CityInfo.db"));
 
 builder.Services.AddValidatorsFromAssemblyContaining<PointOfInterestCreationDto>();
 
