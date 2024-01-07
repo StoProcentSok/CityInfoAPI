@@ -38,6 +38,8 @@ builder.Services.AddSingleton<CitiesDataStore>();
 builder.Services.AddDbContext<CityInfoContext>(dbContextOptions => dbContextOptions.UseSqlite(
     builder.Configuration["ConnectionStrings:CityInfoDbConnectionString"]));
 
+builder.Services.AddScoped<ICItyInfoRepository, CityInfoRepository>();
+
 builder.Services.AddValidatorsFromAssemblyContaining<PointOfInterestCreationDto>();
 
 var app = builder.Build();
