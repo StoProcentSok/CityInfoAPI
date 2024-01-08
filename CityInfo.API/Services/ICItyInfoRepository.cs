@@ -13,13 +13,10 @@ namespace CityInfo.API.Services
 
         Task<bool> CityExistsAsync(int cityId);
 
-        //Task<bool> POIExistsASync(int cityId, int poiId);
-
         Task AddPOIForCityAsync(int cityId, PointOfInterest POI);
 
         Task<bool> SaveChangesASync();
 
         void DeletePOI(PointOfInterest poi);
-
     }
 }

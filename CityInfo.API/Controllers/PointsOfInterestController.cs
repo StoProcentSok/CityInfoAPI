@@ -21,7 +21,7 @@ namespace CityInfo.API.Controllers
         private readonly IMapper _mapper;
 
         public PointsOfInterestController(
-            IValidator<PointOfInterestCreationDto> validator, 
+            IValidator<PointOfInterestCreationDto> validator,
             IValidator<PointOfInterestUpdatingDTO> updatingValidator,
             ILogger<PointsOfInterestController> logger,
             IMailingService mailingService,
@@ -56,7 +56,7 @@ namespace CityInfo.API.Controllers
         [HttpGet("{poiId}", Name = "GetPointOfInterest")]
         public async Task<ActionResult<PointOfInterestDto>> GetPointOfInterest(int cityId, int poiId)
         {
-            
+
             if (!await _cityInfoRepository.CityExistsAsync(cityId))
             {
                 return NotFound();
@@ -98,25 +98,25 @@ namespace CityInfo.API.Controllers
 
             var createdAndSavedPOI = _mapper.Map<Models.PointOfInterestDto>(newPoi);
 
-            return CreatedAtRoute("GetPointOfInterest", 
-                new 
-                { 
-                    cityId = cityId, 
-                    poiId = createdAndSavedPOI.Id 
+            return CreatedAtRoute("GetPointOfInterest",
+                new
+                {
+                    cityId = cityId,
+                    poiId = createdAndSavedPOI.Id
                 }, createdAndSavedPOI);
         }
 
         [HttpPut("{poiToUpdateId}")]
         public async Task<ActionResult> UpdatePointOfInterest(int cityId, int poiToUpdateId, PointOfInterestUpdatingDTO updateDTO)
         {
-            if(!await _cityInfoRepository.CityExistsAsync(cityId))
+            if (!await _cityInfoRepository.CityExistsAsync(cityId))
             {
                 return NotFound();
             }
 
             var POIToBeUpdated = await _cityInfoRepository.GetPointOfInterestForCityAsync(cityId, poiToUpdateId);
 
-            if (POIToBeUpdated is null) 
+            if (POIToBeUpdated is null)
             {
                 return NotFound();
             }
@@ -159,7 +159,7 @@ namespace CityInfo.API.Controllers
             }
 
             _mapper.Map(poiToPatch, POIToBeUpdatedEntity);
-            await _cityInfoRepository.SaveChangesASync(); 
+            await _cityInfoRepository.SaveChangesASync();
 
             return NoContent();
         }
