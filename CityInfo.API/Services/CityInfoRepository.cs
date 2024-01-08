@@ -18,6 +18,23 @@ namespace CityInfo.API.Services
             return await this.context.Cities.AnyAsync(c => c.Id == cityId);
         }
 
+        //public async Task<bool> POIExistsASync(int cityId, int poiId)
+        //{
+        //    if (!await CityExistsAsync(cityId))
+        //    {
+        //        return false;
+        //    }
+
+        //    var poi = await GetPointOfInterestForCityAsync(cityId, poiId);
+
+        //    if (poi is not null) 
+        //    {
+        //        return true;
+        //    }
+
+        //    return false;
+        //}
+
         public async Task<IEnumerable<City>> GetCitiesAsync()
         {
             return await context.Cities.OrderBy(c => c.Name).ToListAsync();
@@ -58,5 +75,7 @@ namespace CityInfo.API.Services
         {
              return (await context.SaveChangesAsync() >= 0);
         }
+
+        
     }
 }

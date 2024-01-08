@@ -107,22 +107,23 @@ namespace CityInfo.API.Controllers
         }
 
         [HttpPut("{poiToUpdateId}")]
-        public ActionResult<PointOfInterestDto> UpdatePointOfInterest(int cityId, int poiToUpdateId, PointOfInterestUpdatingDTO updateDTO)
+        public async Task<ActionResult> UpdatePointOfInterest(int cityId, int poiToUpdateId, PointOfInterestUpdatingDTO updateDTO)
         {
-            var city = _citiesDataStore.Cities.FirstOrDefault(c => c.Id == cityId);
-            if (city == null)
+            if(!await _cityInfoRepository.CityExistsAsync(cityId))
             {
                 return NotFound();
             }
 
-            var poi = city.PointsOfInterest.FirstOrDefault(poi => poi.Id == poiToUpdateId);
-            if (poi == null)
+            var POIToBeUpdated = await _cityInfoRepository.GetPointOfInterestForCityAsync(cityId, poiToUpdateId);
+
+            if (POIToBeUpdated is null) 
             {
                 return NotFound();
             }
 
-            poi.Name = updateDTO.Name;
-            poi.Description = updateDTO.Description; //?? poi.Description; commennted out for JsonPatch implementation
+            _mapper.Map(updateDTO, POIToBeUpdated);
+
+            await _cityInfoRepository.SaveChangesASync();
 
             return NoContent();
         }
