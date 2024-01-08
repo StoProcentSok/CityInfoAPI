@@ -71,11 +71,14 @@ namespace CityInfo.API.Services
             }
         }
 
+        public void DeletePOI(PointOfInterest poi)
+        {
+            context.PointsOfInterests.Remove(poi);
+        }
+
         public async Task<bool> SaveChangesASync()
         {
              return (await context.SaveChangesAsync() >= 0);
         }
-
-        
     }
 }

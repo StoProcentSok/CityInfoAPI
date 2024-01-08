@@ -19,5 +19,7 @@ namespace CityInfo.API.Services
 
         Task<bool> SaveChangesASync();
 
+        void DeletePOI(PointOfInterest poi);
+
     }
 }
