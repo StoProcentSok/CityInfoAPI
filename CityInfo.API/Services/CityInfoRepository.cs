@@ -23,7 +23,7 @@ namespace CityInfo.API.Services
             return await context.Cities.OrderBy(c => c.Name).ToListAsync();
         }
 
-        public async Task<City?> GetCityAsync(int cityId, bool includePOIs)
+        public async Task<City?> GetCityAsync(int cityId, bool includePOIs = false)
         {
             if (includePOIs)
             {
@@ -41,6 +41,22 @@ namespace CityInfo.API.Services
         public async Task<IEnumerable<PointOfInterest>> GetPointsOfInterestsForCityAsync(int cityId)
         {
             return await context.PointsOfInterests.Where(poi => poi.CityId == cityId).ToListAsync();
+        }
+
+
+        public async Task AddPOIForCityAsync(int cityId, PointOfInterest POI)
+        {
+            var city = await GetCityAsync(cityId);
+
+            if (city != null)
+            {
+                city.PointsOfInterest.Add(POI);
+            }
+        }
+
+        public async Task<bool> SaveChangesASync()
+        {
+             return (await context.SaveChangesAsync() >= 0);
         }
     }
 }
