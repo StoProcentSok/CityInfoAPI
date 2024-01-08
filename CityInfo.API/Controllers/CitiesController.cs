@@ -1,5 +1,9 @@
-﻿using CityInfo.API.Models;
+﻿using AutoMapper;
+using CityInfo.API.Models;
+using CityInfo.API.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Diagnostics;
+using Microsoft.EntityFrameworkCore.Query;
 
 namespace CityInfo.API.Controllers
 {
@@ -7,30 +11,43 @@ namespace CityInfo.API.Controllers
     [Route("api/cities")]
     public class CitiesController : ControllerBase
     {
-        private readonly CitiesDataStore _citiesDataStore;
-        public CitiesController(CitiesDataStore citiesDataStore)
+        private readonly ICityInfoRepository _repository;
+        private readonly IMapper _mapper;
+
+        public CitiesController(
+            ICityInfoRepository repository,
+            IMapper mapper)
         {
-            _citiesDataStore = citiesDataStore ?? throw new ArgumentNullException(nameof(citiesDataStore));
+            this._repository = repository ?? throw new ArgumentNullException(nameof(repository));
+            this._mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
         }
 
         
         [HttpGet]
-        public ActionResult<IEnumerable<CityDto>> GetCities()
+        public async Task<ActionResult<IEnumerable<CityWithoutPOIsDTO>>> GetCities()
         {
-            return Ok(_citiesDataStore.Cities);
+            var citiesEntities = await _repository.GetCitiesAsync();
+            
+
+            return Ok(_mapper.Map<IEnumerable<CityWithoutPOIsDTO>>(citiesEntities));
         }
 
         [HttpGet("{id}")]
-        public ActionResult<CityDto> GetCity(int id)
+        public async Task<ActionResult> GetCity(int id, bool includePOIs = false)
         {
-            var city = _citiesDataStore.Cities.FirstOrDefault(x => x.Id == id);
+            var city = await _repository.GetCityAsync(id, includePOIs); 
 
-            if (city is null)
+            if (city == null)
             {
                 return NotFound();
             }
 
-            return Ok(city);
+            if (includePOIs)
+            {
+                return Ok(_mapper.Map<CityDto>(city));
+            } 
+
+            return Ok(_mapper.Map<CityWithoutPOIsDTO>(city));
         }
     }
 }

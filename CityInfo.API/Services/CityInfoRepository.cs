@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CityInfo.API.Services
 {
-    public class CityInfoRepository : ICItyInfoRepository
+    public class CityInfoRepository : ICityInfoRepository
     {
         private readonly CityInfoContext context;
 
@@ -12,6 +12,12 @@ namespace CityInfo.API.Services
         {
             this.context = context ?? throw new ArgumentNullException(nameof(context));
         }
+
+        public async Task<bool> CityExistsAsync(int cityId)
+        {
+            return await this.context.Cities.AnyAsync(c => c.Id == cityId);
+        }
+
         public async Task<IEnumerable<City>> GetCitiesAsync()
         {
             return await context.Cities.OrderBy(c => c.Name).ToListAsync();
@@ -21,7 +27,7 @@ namespace CityInfo.API.Services
         {
             if (includePOIs)
             {
-                return await context.Cities.Include(c => c.PointOfInterests).Where(c => c.Id == cityId).FirstOrDefaultAsync();
+                return await context.Cities.Include(c => c.PointsOfInterest).Where(c => c.Id == cityId).FirstOrDefaultAsync();
             }
 
             return await context.Cities.Where(c => c.Id == cityId).FirstOrDefaultAsync();
