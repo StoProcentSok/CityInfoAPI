@@ -23,14 +23,8 @@ namespace CityInfo.API.Services
             return await context.Cities.OrderBy(c => c.Name).ToListAsync();
         }
 
-        public async Task<IEnumerable<City>> GetCitiesAsync(string? name, string? searchQuery)
+        public async Task<IEnumerable<City>> GetCitiesAsync(string? name, string? searchQuery, int pageNumber, int pageSize)
         {
-            if (string.IsNullOrEmpty(name)
-                && string.IsNullOrEmpty(searchQuery))
-            {
-                return await GetCitiesAsync();
-            }
-
             var collection = context.Cities as IQueryable<City>;
 
             if (!string.IsNullOrEmpty(name))
@@ -46,7 +40,10 @@ namespace CityInfo.API.Services
                 || (c.Description != null && c.Description.ToLower().Contains(searchQuery)));
             }
 
-            return await collection.OrderBy(c => c.Name).ToListAsync();
+            return await collection.OrderBy(c => c.Name)
+                .Skip(pageSize * (pageNumber - 1))
+                .Take(pageSize)
+                .ToListAsync();
         }
 
         public async Task<City?> GetCityAsync(int cityId, bool includePOIs = false)
