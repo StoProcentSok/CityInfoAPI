@@ -24,10 +24,9 @@ namespace CityInfo.API.Controllers
 
         
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<CityWithoutPOIsDTO>>> GetCities()
+        public async Task<ActionResult<IEnumerable<CityWithoutPOIsDTO>>> GetCities([FromQuery(Name ="cityName")] string? name) //[FromQuery] unnecessary when identifier is same as in query
         {
-            var citiesEntities = await _repository.GetCitiesAsync();
-            
+            var citiesEntities = await _repository.GetCitiesAsync(name);
 
             return Ok(_mapper.Map<IEnumerable<CityWithoutPOIsDTO>>(citiesEntities));
         }
