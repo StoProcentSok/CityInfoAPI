@@ -2,8 +2,6 @@
 using CityInfo.API.Models;
 using CityInfo.API.Services;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore.Diagnostics;
-using Microsoft.EntityFrameworkCore.Query;
 using System.Text.Json;
 
 namespace CityInfo.API.Controllers
@@ -24,13 +22,13 @@ namespace CityInfo.API.Controllers
             this._mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
         }
 
-        
+
         [HttpGet]
         public async Task<ActionResult<IEnumerable<CityWithoutPOIsDTO>>> GetCities(
-            [FromQuery(Name ="cityName")] string? name, //[FromQuery] unnecessary when identifier is same as in query
-            string? searchQuery, 
-            int pageNumber = 1, 
-            int pageSize = 10) 
+            [FromQuery(Name = "cityName")] string? name, //[FromQuery] unnecessary when identifier name is same as in query
+            string? searchQuery,
+            int pageNumber = 1,
+            int pageSize = 10)
         {
             pageSize = pageSize > this.maxPageSize ? this.maxPageSize : pageSize;
 
@@ -45,7 +43,7 @@ namespace CityInfo.API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult> GetCity(int id, bool includePOIs = false)
         {
-            var city = await _repository.GetCityAsync(id, includePOIs); 
+            var city = await _repository.GetCityAsync(id, includePOIs);
 
             if (city == null)
             {
@@ -55,7 +53,7 @@ namespace CityInfo.API.Controllers
             if (includePOIs)
             {
                 return Ok(_mapper.Map<CityDto>(city));
-            } 
+            }
 
             return Ok(_mapper.Map<CityWithoutPOIsDTO>(city));
         }
