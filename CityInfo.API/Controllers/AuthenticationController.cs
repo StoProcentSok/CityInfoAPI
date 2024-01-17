@@ -83,7 +83,7 @@ namespace CityInfo.API.Controllers
                 userName ?? "userName", 
                 "Bob", 
                 "Robertson", 
-                "Reykjavik");
+                "Antwerp");
         }
     }
 }
