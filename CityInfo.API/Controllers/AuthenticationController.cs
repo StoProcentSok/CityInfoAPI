@@ -52,6 +52,8 @@ namespace CityInfo.API.Controllers
             var securityKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(_configuration["Authentication:SecretForKey"]));
 
 
+
+
         }
 
         private CityInfoUser ValidateUserCredentials(string? userName, string? password)
