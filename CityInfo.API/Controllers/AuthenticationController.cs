@@ -77,6 +77,7 @@ namespace CityInfo.API.Controllers
 
         private CityInfoUser ValidateUserCredentials(string? userName, string? password)
         {
+            //in prod get those data from db, usernames and encoded passwords with salt and pepper
             return new CityInfoUser(
                 1, 
                 userName ?? "userName", 
