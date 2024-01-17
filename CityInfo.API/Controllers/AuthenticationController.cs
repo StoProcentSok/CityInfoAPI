@@ -70,7 +70,9 @@ namespace CityInfo.API.Controllers
                 signingCredentials
                 );
 
+            var tokenToReturn = new JwtSecurityTokenHandler().WriteToken(jwtSecurityToken);
 
+            return Ok(tokenToReturn);
         }
 
         private CityInfoUser ValidateUserCredentials(string? userName, string? password)
